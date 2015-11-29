@@ -5,7 +5,6 @@ import sys
 import time
 reload(sys)
 sys.setdefaultencoding("utf8")
-file_path = r"E:\EnglishComplete\src.txt"
 def min(x,y):
     if x < y:
         return x
