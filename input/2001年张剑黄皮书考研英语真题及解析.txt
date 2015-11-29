@@ -1,0 +1,955 @@
+                         2001年全国攻读硕士学位研究生入学考试英语试题
+
+Part I Cloze Test
+
+Directions：
+For each numbered blank in the following passage, there are four choices marked [A], [B], [C] and [D]. Choose the best one and mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (10 points)
+
+The government is to ban payments to witnesses by newspapers seeking to buy up people involved in prominent cases   1   the trial of Rosemary West.
+In a significant    2   of legal controls over the press, Lord Irvine, the Lord Chancellor, will introduce a   3   bill that will propose making payments to witnesses    4  and will strictly control the amount of    5   that can be given to a case    6    a trial begins.
+In a letter to Gerald Kaufman, chairman of the House of Commons media select committee, Lord Irvine said he   7  with a committee report this year which said that self regulation did not  8  sufficient control.
+  9   of the letter came two days after Lord Irvine caused a   10   of media protest when he said the   11   of privacy controls contained in European legislation would be left to judges   12  to Parliament.
+The Lord Chancellor said introduction of the Human Rights Bill, which   13   the European Convention on Human Rights legally   14  in Britain, laid down that everybody was   15   to privacy and that public figures could go to court to protect themselves and their families.
+“Press freedoms will be in safe hands   16   our British judges,” he said.
+Witness payments became an    17    after West was sentenced to 10 life sentences in 1995. Up to 19 witnesses were   18   to have received payments for telling their stories to newspapers. Concerns were raised   19   witnesses might be encouraged exaggerate their stories in court to   20   guilty verdicts. 
+
+1.［A］as to         ［B］for instance   ［C］in particular   ［D］such as
+2.［A］tightening    ［B］intensifying   ［C］focusing        ［D］fastening  
+3.［A］sketch        ［B］rough          ［C］preliminary     ［D］draft
+4.［A］illogical     ［B］illegal        ［C］improbable      ［D］improper
+5.［A］publicity     ［B］penalty        ［C］popularity      ［D］peculiarity
+6.［A］since         ［B］if             ［C］before          ［D］as
+7.［A］sided         ［B］shared         ［C］complied        ［D］agreed　
+8.［A］present       ［B］offer          ［C］manifest        ［D］indicate 
+9.［A］Release       ［B］Publication    ［C］Printing        ［D］Exposure　　
+10.［A］storm         ［B］rage　         ［C］flare           ［D］flash
+11.［A］translation   ［B］interpretation ［C］exhibition      ［D］demonstration
+12.［A］better than  ［B］other than     ［C］rather than      ［D］sooner than 
+13.［A］changes      ［B］makes          ［C］sets            ［D］turns　
+14.［A］binding      ［B］convincing     ［C］restraining     ［D］sustaining 
+15.［A］authorized   ［B］credited       ［C］entitled        ［D］qualified　
+16.［A］with         ［B］to             ［C］from            ［D］by
+17.［A］impact       ［B］incident       ［C］inference       ［D］issue　
+18.［A］stated       ［B］remarked       ［C］said            ［D］told 
+19.［A］what         ［B］when           ［C］which           ［D］that
+20.［A］assure       ［B］confide        ［C］ensure          ［D］guarantee
+
+Part II Reading Comprehension
+
+Directions:
+Each of the passages below is followed by some questions. For each questions there are four answers marked [A], [B], [C] and [D]. Read the passages carefully and choose the best answer to each of the questions. Then mark your answer on ANSWER SHEET 1 by blackening the corresponding letter in the brackets with a pencil. (40 points)
+Passage 1
+	Specialisation can be seen as a response to the problem of an increasing accumulation of scientific knowledge. By splitting up the subject matter into smaller units，one man could continue to handle the information and use it as the basis for further research. But specialisation was only one of a series of related developments in science affecting the process of communication. Another was the growing professionalisation of scientific activity. 
+No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule. Nevertheless, the word “amateur” does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values. The growth of specialisation in the nineteenth century, with its consequent requirement of a longer, more complex training, implied greater problems for amateur participation in science. The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+	A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. Amateurs, on the other hand, have continued to pursue local studies in the old way. The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership. A rather similar process of differentiation has led to professional geologists coming together nationally within one or two specific societies, whereas the amateurs have tended either to remain in local societies or to come together nationally in a different way.
+	Although the process of professionalisation and specialisation was already well under way in British geology during the nineteenth century, its full consequences were thus delayed until the twentieth century. In science generally, however, the nineteenth century must be reckoned as the crucial period for this change in the structure of science.
+
+21.	The growth of specialisation in the 19th century might be more clearly seen in sciences such as _______.
+[AJ sociology and chemistry              [B] physics and psychology
+[C] sociology and psychology             [D] physics and chemistry
+22.	We can infer from the passage that _______.
+[A] there is little distinction between specialisation and professionalisation
+[B] amateurs can compete with professionals in some areas of science
+[C] professionals tend to welcome amateurs into the scientific community
+[D] amateurs have national academic societies but no local ones
+23.	The author writes of the development of geology to demonstrate ______.
+[A] the process of specialisation and professionalisation
+[B] the hardship of amateurs in scientific study
+[C] the change of policies in scientific publications
+[D] the discrimination of professionals against amateurs
+24.	The direct reason for specialisation is _______.
+[A] the development in communication
+[B] the growth of professionalisation
+[C] the expansion of scientific knowledge
+[D] the splitting up of academic societies
+
+Passage 2
+	A great deal of attention is being paid today to the so-called digital divide-the division of the world into the info (information) rich and the info poor. And that divide does exist today. My wife and I lectured about this looming danger twenty years ago. What was less visible then, however, were the new, positive forces that work against the digital divide. There are reasons to be optimistic. 
+	There are technological reasons to hope the digital divide will narrow. As the Internet becomes more and more commercialized, it is in the interest of business to universalize access-after all, the more people online, the more potential customers there are. More and more governments, afraid their countries will be left behind, want to spread Internet access. Within the next decade or two, one to two billion people on the planet will he netted together. As a result, I now believe the digital divide will narrow rather than widen in the years ahead. And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we’ve ever had.
+	Of course, the use of the Internet isn’t the only way to defeat poverty. And the Internet is not the only tool we have. But it has enormous potential. 
+	To take advantage of this tool, some impoverished countries will have to get over their outdated anti-colonial prejudices with respect to foreign investment. Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure（the basic structural foundations of a society）in the United States. When the United States built its industrial infrastructure, it didn’t have the capital to do so. And that is why America’s Second Wave infrastructure-including roads, harbors, highways, ports and so on-were built with foreign investment. The English, the Germans, the Dutch and the French were investing in Britain’s former colony. They financed them. Immigrant Americans built them. Guess who owns them now? The Americans. I believe the same thing would be true in places like Brazil or anywhere else for that matter. The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you’re going to be. That doesn't mean lying down and becoming fooled, or letting foreign corporations run uncontrolled. But it does mean recognizing how important they can be in building the energy and telecom infrastructures needed to take full advantage of the Internet. 
+
+25.	Digital divide is something _______.
+[A] getting worse because of the Internet
+[B] the rich countries are responsible for
+[C] the world must guard against
+[D] considered positive today
+26.	Governments attach importance to the Internet because it _______.
+[A] offers economic potentials
+[B] can bring foreign funds
+[C] can soon wipe out world poverty
+[D] connects people all over the world
+27.	The writer mentioned the case of the United States to justify the policy of _______.
+[A] providing financial support overseas
+[B] preventing foreign capital’s control
+[C] building industrial infrastructure
+[D] accepting foreign investment
+28.  It seems that now a country’s economy depands much on ______.
+[A] how well-developed it is electronically
+[B] whether it is prejudiced against immigrants
+[C] whether it adopts America’s industrial pattern
+[D] how much control it has over foreign corporations
+
+Passage 3
+	Why do so many Americans distrust what they read in their newspapers? The American Society of Newspaper Editors is trying to answer this painful question. The organization is deep into a long self-analysis known as the journalism credibility project.
+	Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of headscratching puzzlement about what in the world those readers really want.
+	But the sources of distrust go way deeper. Most journalists learn to see the world through a set of standard templates (patterns) into which they plug each day’s events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusions news.
+	There exists a social and cultural disconnect between journalists and their readers which helps explain why the “standard templates”of the newsroom seem alien many readers. In a recent survey, questionnaires were sent to reporters in five middle size cities around the country, plus one large metropolitan area. Then residents in these communities were phoned at random and asked the same questions.
+	Replies show that compared with other Americans, journalists are more likely to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks, and they’re less likely to go to church, do volunteer work, or put down roots in community.
+	Reporters tend to be part of a broadly defined social and cultural elite, so their work tends to reflect the conventional values of this elite. The astonishing distrust of the news media isn’t rooted in inaccuracy or poor reportorial skills but in the daily clash of world views between reporters and their readers.
+	This is an explosive situation for any industry, particularly a declining one. Here is a troubled business that keeps hiring employees whose attitudes vastly annoy the customers. Then it sponsors lots of symposiums and a credibility project dedicated to wondering why customers are annoyed and fleeing in large numbers. But it never seems to get around to noticing the cultural and class biases that so many former buyers are complaining about. If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
+
+29.	What is the passage mainly about?
+[A] needs of the readers all over the world.
+[B] causes of the public disappointment about newspapers.
+[C] origins of the declining newspaper industry.
+[D] aims of a journalism credibility project.
+30.	The results of the journalism credibility project turned out to be ______.
+[A] quite trustworthy                     [B] somewhat contradictory
+[C] very illuminating                     [D] rather superficial
+31. The basic problem of journalists as pointed out by the writer lies in their ______.
+[A] working attitude                      [B] conventional lifestyle
+[C] world outlook                        [D] educational background
+32.	Despite its efforts, the newspaper industry still cannot satisfy the readers owing to its_______.
+[A] failure to realize its real problem	
+[B] tendency to hire annoying reporters
+[C] likeliness to do inaccurate reporting
+[D] prejudice in matters of race and gender
+
+Passage 4
+	The world is going through the biggest wave of mergers and acquisitions ever witnessed. The process sweeps from hyperactive America to Europe and reaches the emerging countries with unsurpassed might. Many in these countries are looking at this process and worrying: "Won't the wave of business concentration turn into an uncontrollable anti-competitive force?"
+	There's no question that the big are getting bigger and more powerful. Multinational corporations accounted for less than 20% of international trade in 1982. Today the figure is more than 25% and growing rapidly. International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. In Argentina, for instance, after the reforms of the early 1990s, multinationals went from 43% to almost 70% of the industrial production of the 200 largest firms. This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
+	I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers' demands. All these are beneficial, not detrimental, to consumers. As productivity grows, the world's wealth increases.
+	Examples of benefits or costs of the current concentration wave are scanty. Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the U.S., when the Standard Oil trust was broken up. The mergers of telecom companies, such as WorldCom, hardly seem to bring higher prices for consumers or a reduction in the pace of technical progress. On the contrary, the price of communications is coming down fast. In cars, too, concentration is increasing-witness Daimler and Chrysler, Renault and Nissan-but it does not appear that consumers are being hurt.
+	Yet the fact remains that the merger movement must be watched. A few weeks ago, Alan Greenspan warned against the megamergers in the banking industry. Who is going to supervise, regulate and operate as lender of last resort with the gigantic banks that are being created? Won't multinationals shift production from one place to another when a nation gets too strict about infringements to fair competition? And should one country take upon itself the role of “defending competition” on issues that affect many other nations, as in the U S. vs. Microsoft case ?
+
+33. What is the typical trend of businesses today?
+[A] to take in more foreign funds.           [B] to invest more abroad.
+[C] to combine and become bigger.              [D] to trade with more countries.
+34.	According to the author, one of the driving forces behind M&A wave is ______
+[A] the greater customer demands.      [B] a surplus supply for the market.
+[C] a growing productivity.             [D] the increase of the world's wealth.
+35.	From paragraph 4 we can infer that ______.
+[A] the increasing concentration is certain to hurt consumers
+[B] WorldCom serves as a good example of both benefits and costs
+[C] the costs of the globalization process are enormous
+[D] the Standard Oil trust might have threatened competition
+36.	Toward the new business wave, the writer's attitude can he said to be _______.
+[A] optimistic                   [B] objective
+[C] pessimistic                  [D] biased
+
+Passage 5
+	When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend. A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high profile career although, in the manner of a disgraced government minister, I covered my exit by claiming “I wanted to spend more time with my family”.
+	Curiously, some two-and-a-half years and two novels later, my experiment in what the Americans term “downshifting”has turned my tired excuse into an absolute reality. I have been transformed from a passionate advocate of the philosophy of “having it all”, preached by Linda Kelsey for the past seven years in the pages of She magazine, into a woman who is happy to settle for a bit of everything.
+	I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of “juggling your life”, and making the alternative move into “downshifting” brings with it far greater rewards than financial success and social status. Nothing could persuade me to return to the kind of life Kelsey used to advocate and I once enjoyed: 12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on “quality time”.
+	In America, the move away from juggling to a simpler, less materialistic lifestyle is a well-established trend. Downshifting-also known in America as “voluntary simplicity” has, ironically, even bred a new area of what might be termed anticonsumerism. There are a number of bestselling downshifting self-help books for people who want to simplify their lives; there are newsletter's, such as The Tightwad Gazette, that give hundreds of thousands of Americans useful tips on anything from recycling their cling-film to making their own soap; there are even support groups for those who want to achieve the mid- '90s equivalent of dropping out.
+	While in America the trend started as a reaction to the economic decline——after the mass redundancies caused by downsizing in the late’80s——and is still linked to the politics of thrift, in Britain, at least among the middle-class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
+	For the women of my generation who were urged to keep juggling through the’80s, downshifting in the mid-'90s is not so much a search for the mythical good life——growing your own organic vegetables, and risking turning into one——as a personal recognition of your limitations. 
+
+37. Which of the following is true according to paragraph 1?
+[A] Full-time employment is a new international trend.
+[B] The writer was compelled by circumstances to leave her job.
+[C] “A lateral move” means stepping out of full-time employment.
+[D] The writer was only too eager to spend more time with her family.
+38. The writer’s experiment shows that downshifting ____
+[A] enables her to realize her dream
+[B] helps her mold a new philosophy of life
+[C] prompts her to abandon her high social status
+[D] leads her to accept the doctrine of She magazine
+39. “Juggling one’s life” probably means living a life characterized by_____. 
+[A] non-materialistic lifestyle                   [B] a bit of everything
+[C] extreme stress                                [D] anti-consumerism
+40. According to the passage, downshifting emerged in the U.S. as a result of _____
+[A] the quick pace of modern life                 [B] man’s adventurous spirit
+[C] man’s search for mythical experiences     [D] the economic situation
+
+Part III English-Chinese Translation
+
+Directions:
+  Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (15 points)
+
+In less than 30 years’ time the Star Trek holodeck will be a reality. Direct links between the brain’s nervous system and a computer will also create full sensory virtual environments, allowing virtual vacations like those in the film Total Recall. 
+41）There will be television chat shows hosted by robots, and cars with pollution monitors that will disable them when they offend. 42）Children will play with dolls equipped with personality chips, computers with in-built personalities will be regarded as workmates rather than tools, relaxation will be in front of smell television, and digital age will have arrived. 
+According to BT’s futurologist, Ian Pearson, these are among the developments scheduled for the first few decades of the new millennium（a period of 1,000 years）, when supercomputers will dramatically accelerate progress in all areas of life. 
+43）Pearson has pieced together the work of hundreds of researchers around the world to produce a unique millennium technology calendar that gives the latest dates when we can expect hundreds of key breakthroughs and discoveries to take place. Some of the biggest developments will be in medicine, including an extended life expectancy and dozens of artificial organs coming into use between now and 2040.
+Pearson also predicts a breakthrough in computer-human links. “By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments, rather like the holidays in Total Recall or the Star Trek holodeck, ” he says. 44）But that, Pearson points out, is only the start of man-machine integration: “It will be the beginning of the long process of integration that will ultimately lead to a fully electronic human before the end of the next century.”
+Through his research, Pearson is able to put dates to most of the breakthroughs that can be predicted. However, there are still no forecasts for when faster-than-light travel will be available, or when human cloning will be perfected, or when time travel will be possible. But he does expect social problems as a result of technological advances. A boom in neighborhood surveillance cameras will, for example, cause problems in 2010, while the arrival of synthetic lifelike robots will mean people may not be able to distinguish between their human friends and the droids. 
+45）And home appliances will also become so smart that controlling and operating them will result in the breakout of a new psychological disorder—kitchen rage.
+
+Section V Writing
+
+46.  Directions:
+Among all the worthy feelings of mankind, love is probably the noblest, but everyone has his/her own understanding of it.
+There has been a discussion recently on the issue in a newspaper. Write an essay to the newspaper to
+1）show your understanding of the symbolic meaning of the picture below.
+2）give a specific example, and
+3）give your suggestion as to the best way to show love.
+ 
+
+
+第一部分  英语知识应运试题解析
+
+
+一、文章总体分析
+本文是一篇报道性的文章，介绍了自露丝玛莉?韦斯特案件发生后，政府、法院、媒体各方面对于付款给证人的反应。文章第一段介绍了政府的反应：要禁止报界买断证人新闻的举动。第二至六段介绍了以大法官埃尔温勋爵为代表的法院在这个问题上的态度。最后一段介绍了露丝玛莉?韦斯特案件的始末。在该案件中由于很多证人通过讲述他们的经历而从媒体获得报酬，结果导致被告数罪并罚，被判十项无期徒刑。结论为付款给证人的做法成为一个颇有争议的问题。
+
+二、试题具体解析
+1.  [A] as to关于，至于         [B] for instance举例
+[C] in particular特别地     [D] such as例如
+    [答案] D
+[解析] 本题考核的知识点是：逻辑关系。
+解答该题时，考生需要判断空格前后部分prominent cases和The trial of Rosemary West之间的关系，前者泛指“一些著名的案件”，后者是一个具体的案件，即“对露丝玛莉?韦斯特案件的审判”，可见两者是例证关系。因此，所填入的选项应是一个表示“例如”或“像……一样”的连接词。首先排除as to和in particular。for instance（或for example）可表示“举例”，但放在句中多为插入语，且后面不可直接加宾语。如：Here in Chicago, for instance, the movement was growing by leaps and bounds.（比如在芝加哥，运动正在迅猛发展）。选项中只有介词短语such as可以接名词做宾语，表达“例如…，象这种的”的含义。
+首段第一句话的结构比较复杂，中心句为The government is to ban payments to witnesses by newspapers（政府要禁止报界付钱给证人），现在分词结构seeking to buy up... Rosemary West 做后置定语，用来修饰newspapers，意为“试图收买涉及一些要案证人的报纸”。过去分词结构involved in也是后置定语，用来修饰people。整个句子的含义是：政府要禁止报界付钱给涉及一些要案（诸如审判露丝玛莉?韦斯特案）的证人以图收买他们的举动。
+2.  [A] tightening收紧，加紧，使…严格    [B] intensifying加强，强化
+[C] focusing集中                      [D] fastening扣紧，扎牢
+[答案] A
+[解析] 本题考核的知识点是：习惯搭配 + 动词词义辨析。
+本题的四个选项虽然都是动名词，但实际上考核的是能与controls搭配的中心动词。首先排除focus和fasten，focus意为“把注意力等集中在…”，如：You must try to focus your mind on work and study.（你应该努力把思想集中在工作和学习上）文章第一段只提到政府要禁止付款收买证人的这种做法，并没有涉及其它方面的情况，也就无所谓“集中法律控制”了。fasten表“扣紧，扎牢”的含义时多接具体名词，如：fasten our seat belts（系紧安全带），不适用于抽象名词control。intensify侧重于强调数量、活动、情感的增加或增强，不和control搭配，如：The press has intensified its scrutiny of the candidate’s background.（新闻界已加强了对侯选人的背景调查）；只有tighten与legal control搭配，表示“加强法律控制”。
+知识点补充：常与control构成的搭配还有：gain/ take/lose/seize ～ of， have/hold ～ over, offer～，set up ～ 。 
+3.  [A] sketch略图，草稿，梗概           [B] rough概略的，不完善、未完成的
+[C] preliminary初步的，预备的        [D] draft草稿，草案，草图
+[答案] D
+[解析] 本题考核的知识点是：固定搭配。
+本题要求考生判断哪个选项与bill搭配。draft bill是法律中的一个固定搭配，意为“草案，（提交议会讨论的）法案”；其他三个选项虽然不与bill搭配，但都可以表示类似于“初步的，不完整的，简略的”的含义，sketch的搭配有sketch map（略图、示意图），sketch plan（草拟计划）；rough的搭配有a rough drawing（草图）；preliminary强调“初步的”，如：a preliminary examination（初试）。 
+4.  [A] illogical不符合逻辑的          [B] illegal非法的
+[C] improbable不大可能发生的       [D] improper不适当的，不正确的
+[答案] B
+[解析] 本题考核的知识点是：上下文语义 + 形容词词义辨析。
+空格所在部分是that引导的定语从句that will propose making payments to witnesses   4   ，修饰先行词bill，说明是怎样一种法案。其中从句的宾语是一个复合结构making payment to witness __4__，（使给证人支付报酬的行为…），解此题时，考生关键要判断这个草案在对待收买证人的问题上的态度是怎样的。
+文章第一句提到“政府要禁止报界收买一些要案的证人的举动”，第二段首句紧接着提到“为了加强对报界的控制，大法官埃尔温勋爵将要提出这个法案”。从逻辑上讲，政府和大法官的行为应该是一致的。那么大法官提出法律草案的目的也是反对报界收买证人的做法。illegal强调不符合法律规定，符合题意。其他三个选项都不符合语义，illogical强调不合逻辑，如：Sometimes illogical behaviors may result in a great invention.（有时不合逻辑的做法可能会导致伟大的发明）；improbable指可能性很小，如：It is improbable that she will go.（她不大可能会走）；improper表示“不得体”，若用在本题中，语气太弱，如：an act improper to the occasion（不合时宜的行为）。
+5.  [A] publicity公开，公诸于众       [B] penalty处罚，罚款
+[C] popularity普遍，流行          [D] peculiarity特性，怪癖
+[答案] A 
+[解析] 本题考核的知识点是：逻辑语义搭配。
+空格所在部分是：a bill that will propose …and will strictly control the amount of _ 5__ that can be given to a case。从结构上看，空格处填入的名词，既是control的宾语，又是that引导的定语从句修饰的先行词，即符合give sth. to a case的搭配。符合这两个要求的只有选项A. publicity，give publicity to sth.（宣扬/公布某事）为常用搭配。整个句子大意为：草案提议对报界付款给证人的做法定为非法，并严格控制案件的公开程度。
+词汇补充：the penalty for speeding（超速罚款）；enjoy／win general popularity（受欢迎）；One of the peculiarities of his behavior is that he shouts instead of talking.（他的一种怪癖是说话总爱高声嚷）。
+6.  [A] since 自…以后，自…以来           [B] if 如果，要是，即使
+[C] before 在…之前，                  [D] as 当…之时，与…一样
+[答案] C
+[解析] 本题考核的知识点是：上下文语义 + 逻辑推理。
+本题需要考生判断空格处应填入什么连词来连接这两个动作：“严格限制案件的公开程度”和“审判开始”。根据上下文逻辑推理，政府之所以要禁止报界付钱给案件的证人，是因为新闻界要把这些证人的观点公诸于众，这些观点难免夹杂个人的因素，而司法要求的是公正，不能因为这些观点影响案件的审理。因此要严格控制的应该是案件在审理开始“之前”（before）就过分公开。
+7.	[A] sided (with) 与(某人)站在同一边，同意某人的观点   
+[B] shared (with) 与……分享
+[C] complied (with) 遵守，服从          
+[D] agreed (with) 同意
+[答案] D
+[解析] 本题考核的知识点是：习惯搭配 + 动词短语语义辨析。
+本题考查了动词与with sth.的搭配。四个选项都能与with搭配，关键是看哪个能与后面的宾语a committee report（委员会的报告）搭配。先排除选项B和C，因为我们不能说“分享报告”或“遵守报告”。而side with后一般连接“某人”，如：He sided with the conservatives in Congress.（他在国会中支持保守派）。只有agreed with合适，意为“埃尔温勋爵阐明自己赞同委员会今年的报告”。
+例句补充：He shared the story with us.（他给我们讲了这个故事）；The patient complied with the physician’s orders.（病人遵从医生的嘱咐）。
+8.  [A] present赠与，提交         [B] offer提供，给予
+[C] manifest表明，证明        [D] indicate显示，暗示
+[答案] B
+[解析] 本题考核的知识点是：动词词义辨析。
+本题空格处再次考查了动词与control的搭配。根据上下文，这里指的应是埃尔温勋爵批评报界收买证人，随意公开案件的情况，自我约束力度不够。四个选项中，manifest和indicate的含义明显不符合文意。offer属于使用非常广泛的词语，当表示“给”的含义时等于give，它放入文中，表达的含义是：自我约束（self-regulation）不能提供足够的监控。present一般指正式的呈递，如：The committee is presenting its investigation report next week.（委员会将于下星期提出调查报告）。
+例句补充：He doesn’t manifest much interest in his studies.（他对学业没多大兴趣）；The symptoms indicate immediate surgery.（症状表明需要立即做外科手术）。
+9.  [A] Release释放，放松           [B] Publication发表，公之于众
+[C] Printing印刷，打印，出版    [D] Exposure暴露，揭露
+[答案] B
+[解析] 本题考核的知识点是：名词词义辨析。
+空格所在句子指出，“这封信的…在两天后发生了”。四个选项中，Release有“准许发表，发布”的意思，但它强调的是经过努力才得以发表，多用于消息（发布）、影片或者书籍（发行）；若用printing表示“两天后把信打印出来”显然不对；exposure多指“暴露或揭露一些不好的事情，如违法或犯罪行为”，如：exposure of graft in the government.（对政府贪污的揭露）；因此正确答案是publication，表达的含义是“两天后，这封信便公布于众”。
+10. [A]（a）storm (of) 一阵猛烈的（感情或激动）的爆发；一阵风波
+    [B]（a）rage（of）一阵（狂怒）
+[C]（a）flare（of）一阵（怒气）              
+[D]（a）flash（of）突然闪现（的东西）
+[答案] A
+[解析] 本题考核的知识点是：固定搭配 + 名词词义辨析。
+空格所在部分是：Lord Irvine caused a   10  of media protest，这里描述了媒体抗议的程度。从结构上来看，填入的名词应与“media protest”搭配。从文意来看，其含义应是“（引起了）一片（媒体的抗议）”。storm 可以与a…of的形式搭配，表示“一阵猛烈的情感爆发或一阵风波”，如：a storm of tears（泪如雨下），a storm of protest（一阵/片猛烈的抗议）。
+rage也表示“暴怒、大怒”，但是搭配形式只能是a rage，如：be in a rage，flew into a rage（勃然大怒）；flare在a…of搭配中仅表示“一阵怒气”，它不和media protest搭配，如：a flare of temper（大发雷霆），a flare of resentment（一阵怒气）；flash表示突然闪现的东西，如：a flash of hope（一线希望），a flash of wit（灵光一现）等。因此用a storm of修饰media protest形象地描绘了媒体抗议的激烈程度。
+11. [A] translation翻译，转换       [B] interpretation口译，解释，解释权
+[C] exhibition展览，显示        [D] demonstration示范，实证
+[答案] B
+[解析] 本题考核的知识点是：名词词义辨析。
+本题考查哪个名词能和privacy controls搭配，从意义上来看，只有 interpretation 符合题意。“the interpretation of privacy controls”意为“隐私控制的解释权”。注意translation和interpretation及各自的动词形式都是近义词，可以表示“翻译”，但表示“解释、阐释（语言以外的东西）”之义时不能用translate，只能用interpret，相当于explain，如：How can I interpreted his behavior?（我怎么解释他的行为）。
+12. [A] better than好过，胜于                [B] other than不同于；除了
+[C] rather than是…而不是，与其…毋宁    [D] sooner than快于，早于
+[答案] C
+[解析] 本题考核的知识点是：介词短语辨析。
+本题空格前后连接的是两个介词短语（left）to judges（留给法官）与（left）to Parliament（留给国会），它们描述的对象都是interpretation of private controls，显然两者在意义上是不能共存的，只能选其一。因此空格处要填入一个含有选择意义的词。先排除better than和sooner than，前者表达程度比较，后者反映速度比较。other than表达选择概念时可意为“不同于”，如：The result was quite other than we had expected.（结果和我们预期的不同），但是根据上下文，“把隐私控制的解释权留给法官不同于留给国会”本身就是客观事实，不至于会引起媒体的一片抗议，因此可推知rather than最恰当，意为“是…而不是”，如：These shoes are comfortable rather than pretty.（这双鞋子是舒服而不是好看）。文中意思为“把隐私控制的解释权留给法官而不留给国会”。
+13. [A] changes改变，变革，改造       [B] makes 制造，安排，使（成为）…
+[C] sets致使，使（某人）做某事    [D] turns（使）转动，翻转，（使）变质
+    [答案] B
+[解析] 本题考核的知识点是：动词用法。
+本题所在句子的结构是which引导的一个非限制性定语从句，从句的主语是which指代的the Human Rights Bill。从本题和下一题的选项可看出两个空格应分别填入动词和形容词。那么从句的基本结构应是：动词+宾语（the European Convention on Human Rights）+形容词（宾语补足语）。由此可见，所选的动词应能接宾补。从语法上来看，四个选项中，make常接形容词做宾语补足语，如：made her position clear（使她的地位明朗化）；set也可以接宾语补足语，但宾补一般是现在分词、不定式或介词短语，很少用形容词，只有：set the boy right（纠正孩子的错误），a good rest will set you right（休息将使你的精神得到恢复），set the prisoners free（把囚犯释放出来），set your hat straight（把帽子带正）等情况。因此make为正确答案，放入空格意为“使《欧洲人权公约》在法律上…”。
+14. [A] binding有约束力的            [B] convincing具有说服力的
+[C] restraining抑制的，遏制的    [D] sustaining持续的，支持的
+[答案] A
+[解析] 本题考核的知识点是：上下文语义 + 形容词词义辨析。
+从上一题的分析可知，空格填入的形容词做make复合结构的宾补：make the European Convention on Human Rights legally  14  。其次根据上下文，the Human Rights Bill…laid down that everybody was  15  to privacy and that public figures could go to court to protect themselves and their families（人权法案规定每一个人都…隐私权，公众人物可以走上法庭去保护自己和他们的家人），因此从《人权法案》的具体内容看，它对《欧洲人权公约》的影响应该是使其在法律上有约束力（binding），而不仅仅是“具有说服力”，更不是“具有说服力”或“抑制的”。因此A选项符合题意。
+15. [A] authorized 被授权             [B] credited 把…归于，认为属于…
+[C] entitled 有资格，能胜任       [D] qualified有权…，有资格…
+[答案] C
+[解析] 本题考核的知识点是：习惯搭配 + to的用法。
+空格所在部分的搭配是be +过去分词+to sth.，其中to是介词。四个选项中，be authorized to do sth. 意为“被授权……”，其中to是不定式符号，不是介词，如：She was authorized by her partner to negotiate with the dealer.（她的合伙人授权她与经销商谈判）；be credited to sth.意为“把…归于某人或某物，认为属于……”，如：Superpowers are credited to the big stone.（人们认为这块大石头有超能），该词组虽然在语法上可行，但在文中表达的意思是“把每个人归于隐私”显然逻辑不通；be qualified to do sth.意为“有资格，能胜任”，但其中的to不是介词，是不定式符号，后面要接动词原形，如：He is qualified to teach English.（他有资格教英语）。符合题意的be entitled to sth.是个固定搭配，意为“有权……，有资格……”，如：He is entitled to the pension.（他有权领取养老金）。
+16. [A] with和，带着，以…方式，由…负责    [B] to向，直到，靠着…，伴随
+[C] from从…（时间），离开，因为         [D] by在附近，经，依据，通过
+[答案] A
+[解析] 本题考核的知识点是：介词的用法。
+本题考查哪个介词可以与in safe hands（安然无恙）搭配。空格所在句子是Press freedoms will be in safe hands   16   our British judges（新闻自由由法官掌握将安然无恙），介词中只有with可表达“由…掌握，由…负责”的含义，例句：I shall leave the child with you.（我将把这孩子交给你）。
+17. [A] impact冲撞，冲击，影响       [B] incident事件，事变
+[C] inference推断，结论           [D] issue 问题，争论点
+[答案] D
+[解析] 本题考核的知识点是：上下文语义 + 名词词义辨析。
+本题要求考生判断“自West被判十次无期徒刑后，付款给证人的做法成为了什么”。首先考生需知道West和前面提到的the trial of Rosemary West联系起来，这个事件的影响很大，政府和法官都意识到要严格控制报界付款给证人的行为。由此可以推断出付款给证人的做法应该成为颇有争议的问题（issue），而不只是一个事件（incident），或推断（inference），或冲击（impact）。虽然impact也有“影响”的含义，但和不定冠词搭配只能是have/make a great impact on sth.，例句：This book had a great impact on its readers.（这本书对读者有很大的影响）。
+18. [A] stated陈述，表明           [B] remarked陈述，发言，评论
+[C] said说                     [D] told告诉
+[答案] C
+[解析] 本题考核的知识点是：动词用法辨析。
+本题所在部分是Up to 19 witnesses were   18   to have received payments，其谓语动词是被动语态的复合结构：be +过去分词+ to have done sth.。适用这个结构的只有said和told，但be told to have done sth.意为“被告知做过某事”，不符合句意。正确答案只有C，be said to have done sth.意为“据说做过某事”，本句可译为：据说多达19个证人因向报社讲述他们的故事而获得报酬。
+19. [A] what 关系代词           [B] when关系副词
+[C] which 关系代词          [D] that关系代词
+[答案] D
+[解析] 本题考核的知识点是：同位语从句中的关系代词。
+空格后面部分是concerns的同位语，表明其具体内容。选项中能引导同位语从句的关系代词只有that。注意：同位语从句本来应该直接跟在先行词concerns后面，但因为从句太长，会显得头重脚轻，所以放在了后面，达到句子平衡的效果。
+知识点补充：同位语从句接在名词后，对名词作进一步解释，说明其具体内容。这类名词包括：belief （相信），conclusion（结论），decision（决定），doubt（怀疑），evidence（证据），fact（事实），hope（希望），idea（想法），information（消息），news（消息），probability（可能），problem（问题），rumor（传闻），suggestion（建议），truth（真理）等等。
+20. [A] assure确保，保证        [B] confide吐露，倾诉，托付
+[C] ensure确保，使确信      [D] guarantee保证，承诺
+[答案] C
+[解析] 本题考核的知识点是：动词词义辨析。
+guilty verdicts意为“（陪审团的）定罪决定”。空格所在句子意为：证人被鼓励在法庭上夸大事实，目的就为了…定罪。考生需判断哪个动词可以与guilty verdicts搭配。assure后面一般接人，表示消除别人的疑虑，如：I can assure you of its quality.（我可以向您保证它的质量）。confide接sth.时，意为“吐露（内幕），托付”，如：He confided his troubles to a friend.（他向朋友倾诉烦恼事），confide my property to your care.（把我的财产托付你保管）。显然这两个含义都不符合文意。guarantee接sth.时意为“担保…质量，保证，落实”等，当含义是“保证”时多接褒义的名词，如：guarantee a good crop（保证了好收成）；ensure意为“保证，担保，使…一定得到”，强调对某行为有把握，根据文意，证人的目的就是想确保让被告得到定罪，因此ensure最符合句意。
+
+三、全文翻译
+政府要禁止报界付钱给涉及一些要案的证人以图收买他们的举动。审判露丝玛莉?韦斯特案就是这样的一起案子。
+为了加强对报界的法律控制，大法官埃尔温勋爵将要提出一个法案的草案。这一法案将提议把报界付款给证人的做法定为非法，并且，法案还严格对案件在开庭前的公开程度加以限制。
+在给下院媒体选择委员会主席格拉德?考夫曼的一封信中，埃尔温勋爵说他同意该委员会今年的报告。该报告指出对媒体的自我约束没有实施足够的监控。当埃尔温勋爵说对于欧洲立法中所包含的关于隐私权的控制的解释权将留给法官而不是国会时，他的这一作法遭到了媒体的一片抗议。两天后，这封信便公布于众。
+大法官说《人权法案》的引入使《欧洲人权公约》在英国具有了法律约束力。它规定每个人都享有个人隐私权，公众人物可以走上法庭去保护自己和家人的权利。
+“新闻自由由法官掌握将安然无恙”，他说道。
+自韦斯特在1995年被判处十项无期徒刑后，给证人付报酬的做法就成了颇有争议的问题。据说多达十九个证人因向报社讲述他们的经历而获得报酬。这引起了人们的关注：证人为了确保法庭给被告定罪，可能会被怂恿在法庭上夸大事实。
+
+第三部分  阅读理解试题解析
+
+第一篇
+
+一、文章结构总体分析
+这是一篇论述科学发展的专业化和职业化的文章。全文客观地描述这一过程，并且以英国地质学的发展为例说明专业化发展导致专业人员和业余人员之间的分化越来越明显。
+第一段：科学知识的积累导致知识的进一步分类和分化，即专业化发展。与专业化发展同时并存的另一现象是科学活动的日益职业化。
+第二段：专业化的发展给业余研究者的进入带来了困难，这种趋势在某些科学领域尤为突出。
+第三、四段指出：以英国地质学研究为例，说明专业人员和业余人员之间分化越来越明显。而这种专业化和职业化的分化过程早在19世纪英国的地质学领域就已经开始形成。
+
+二、试题具体解析
+21. The growth of specialisation in the         21. 19世纪专业化的发展在____科
+19th century might be more clearly seen         学领域更为显见。
+in sciences such as ____.
+[A] sociology and chemistry                     [A] 社会学、化学
+[B] physics and psychology                      [B] 物理学、心理学
+[C] sociology and psychology                    [C] 社会学、 心理学
+[D] physics and chemistry                       [D] 物理学、 化学
+［答案］D
+［解析］本题考核的知识点是：事实细节题 + 常识。
+文章第二段最后两句话指出，“19世纪专业化的发展要求时间更长、内容更复杂的培训，这使得非专业研究人员面临越来越大的困难。这个趋势在以数学训练或实验室训练为基础的科学领域显得更为突出。”四个选项中涉及社会学、化学、物理学、心理学四个学科。根据常识，物理学、化学与地质学都是以数学和实验室培训为基础的科学，而社会学和心理学则不是。比较四个选项只有D选项“物理和化学”是正确答案。
+22. We can infer from the passage that ____.  22．从文中，我们可以推断出_____。   
+[A] there is little distinction between      [Ａ] 专业化和职业化过程几乎没有区别
+specialisation and professionalisation
+[B] amateurs can compete with professionals  [Ｂ] 业余研究者可以在某些科学领
+in some areas of science                      域与专业研究者相匹敌
+[C] professionals tend to welcome amateurs   [Ｃ] 专业人员倾向于欢迎业余人员加入
+into the scientific community                 他们的科学团体
+[D] amateurs have national academic societies[Ｄ] 非专业研究人员拥有全国性的学术
+ but no local ones                             机构，但是没有地方性的机构
+［答案］B
+［解析］本题考核的知识点是：推理引申题。
+文章第一段最后两句指出，“专业化仅仅是科学领域内影响交流过程的一系列相关科学发展的现象之一，另一现象是科学活动的日益职业化。”由此可知，专业化和职业化是两个不同的过程，因而可排除A选项；第二段最后一句指出“专业化的发展给业余研究者的进入带来了困难，这种趋势在某些科学领域尤为突出”，其暗含的意思是在另外一些领域非专业人员可以和专业人员去竞争，B选项表达了此意，是正确答案。在此基础上，第三段更是举出英国地质学研究的例子来说明专业人员与非专业人员出现的越来越明显的分化，因此Ｃ选项明显错误；D选项与第三段最后一句“业余人员有两种选择：或者呆在地方研究团体中，或者以另外一种方式在全国范围内联合”不符。
+23. The author writes of the development 23．作者提到地质学发展的目的是为了
+of geology to demonstrate .	             说明___.
+[A] the process of specialisation and     [Ａ] 职业化和专业化形成的过程
+professionalisation
+[B] the hardship of amateurs in           [Ｂ] 业余研究者在科学研究中碰到的困难
+scientific study
+[C] the change of policies in scientific  [Ｃ] 科技出版物出版方针的变化
+publications
+[D] the discrimination of professionals   [Ｄ] 专业研究者对业余研究者的歧视
+ against amateurs     
+［答案］A
+［解析］本题考核的知识点是：作者意图题。
+作者在第二段末句提到，业余研究者很难进入专业领域的趋势可以通过英国地质学发展的例子很好地来说明。第三段谈到英国地质学研究中出版标准的变化、专业和业余人员的不同研究方式、业余人员在专业刊物上发表论文的困难及专业和业余两种不同的刊物和学会的形成。可见，作者举例的目的是描述职业化和专业化形成的过程，A选项正确。
+B选项和C选项都是第三段提到的职业化和专业化发展过程中的具体表现，并不是例子旨在说明的问题。D选项文中未明确提出。
+24.The direct reason for specialisation is    24. 造成专业化的直接原因_____？
+     .
+［A］the development in communication       [Ａ]交流的发展
+［B］the growth of professionalisation	[Ｂ]职业化的发展
+［C］the expansion of scientific knowledge	[Ｃ]科学知识的扩展
+［D］the splitting up of academic societies  [Ｄ]学术团体的分裂
+［答案］C
+［解析］本题考核的知识点是：细节题
+第一段第一句指出，“专业化过程可以看作是对科学知识不断积累问题的反映”，其中response to与题干中的direct reason对应，因此C选项正确。文中提到A选项受专业化过程影响（一段末句），B选项是与专业化发展并存的现象，D选项是专业化发展造成的结果，因此都不是专业化的直接原因。
+
+三、文章长难句解析与佳句赏析
+长难句分析:
+① Nevertheless, the word “amateur” does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values.
+句子主干是the word“amateur”does carry a connotation，后面是that引导的同位语从句，从句的主干是：the person is not fully integrated into and not fully share，其中包含了两个并列谓语。
+    ② The trend was naturally most obvious in those areas of science based especially on a mathematical or laboratory training, and can be illustrated in terms of the development of geology in the United Kingdom.
+句子主干是The trend was obvious in...and can be illustrated in terms of...。science后接过去分词based on做定语。In terms of“以…观点/方式，就…而说”。
+③ A comparison of British geological publications over the last century and a half reveals not simply an increasing emphasis on the primacy of research, but also a changing definition of what constitutes an acceptable research paper. 
+句子主干是A comparison reveals not simply...but also...，并列连词not only…but also连接两个并列宾语emphasis和definition，宾语后都接有介词短语做定语。 
+    ④ The overall result has been to make entrance to professional geological journals harder for amateurs, a result that has been reinforced by the widespread introduction of refereeing, first by national journals in the nineteenth century and then by several local geological journals in the twentieth century. 
+句子主干是The result has been to make entrance harder for amateurs, a result…。逗号后面部分a result相当于the result has been a result，a result后是that引导的定语从句，其中存在两套被动结构，一是a result has been reinforced by the introduction of refereeing，另一套是 first the introduction of refereeing first by …and then by…。make sth. harder for sb.意为“使某事对于某人来说更难了”；referee原义为“当裁判，裁决”，句中意为“（出版）评审制度”。
+佳句赏析:
+Thus, in the nineteenth century, local geological studies represented worthwhile research in their own right; but, in the twentieth century, local studies have increasingly become acceptable to professionals only if they incorporate, and reflect on, the wider geological picture. 
+该句由but连接两个分句，前后两个不同的时间状语表现了一种对比。结构严谨，对比鲜明，给人一目了然之感。
+
+四、词汇注释
+(1) specialisation（n.）专业化；specialize（v.）（in）专攻，专门研究，使专用于；specialized（a.）专门的，专科的
+(2) accumulation（n.）积累，积聚（物）；accumulate（v.）
+(3) split (v./n.) 裂开，劈开；分裂，分离；split up（使）分裂；（使）分离；分成（小组）；[美俚]吵架；离婚
+(4) professionalisation（n.）职业化；professionalize（v.）（使）职业化/专业化；professional（a.）专业的, 职业的（n.）自由职业者，专业人员
+(5) clear-cut（a.）明确的，清晰的
+(6) amateur（n.）业余爱好者；外行 (a.)业余的；非职业的；外行的amateurship（n.）业余者的资格或身份amateurish（a.）业余的，非职业的，不熟练的amateurismn.（n.）业余性，非职业的作为
+(7) connotation（n.）含义，内涵，隐含意义；言外之意
+(8) integrate (v.)（into，with）（使）成为一体，（使）结合在一起，（使）合并；integration（n.）综合；integrative（a.）综合的，一体化的
+(9) participation（n.）参与，参加；participate (v.)（in）参加，参与；分享，分担；participator（n.）参与者，合作者；participatory（a.）供人分享的
+(10) primacy（n.）首位，首要，首席
+（11）in one’s own right凭本身的权利（能力、实力，资格）
+(12) reinforce（v.）加强，增援，增加，强化
+(13) referee（v.）审阅，鉴定；裁判，仲裁（n.）仲裁人，调解人，[体]裁判员
+（14）reckon (v.) 认为，估计；指望，想要；测算，依靠 ~ as认为，视为，把…看作
+
+五、全文翻译
+专业化可被视为针对科学知识不断膨胀这个问题所做出的反应。通过将学科细化成小单元，人们能够继续处理这些不断膨胀的信息并将它们作为深入研究的基础。但是专业化仅是科学领域内一系列影响交流过程的有关现象之一。另一现象是科学活动的日益职业化。
+在科学领域内，专业人员与业余人员之间没有绝对的区分：任何规则都有其例外。但是“业余”这个词的确有含义：那就是所指的那个人没有完全融入某个科学家群体，特别是，他可能并不完全认同这个群体的价值观。（长难句①）19世纪的专业化的发展，以及随之而来的对训练的长期性和复杂性的要求，对业余人员进入科学界造成了更大的困难。这一趋势在以数学训练或实验室训练为基础的科学领域里自然表现得最为突出，英国地质学的发展可以说明这一问题（长难句②）。
+把英国最近一个半世纪的地质学刊物作一比较，人们发现，不仅研究的重要性越来越受到强调，而且学术论文的出版标准也在不断地发生变化（长难句③）。因此，在19世纪，局部的地质学研究本身就代表了一种有价值的科研；而到了20世纪，局部的研究只有在包含或考虑到更广阔的地质面貌时才越来越被专业人员接受（佳句）。另一方面业余人员继续以旧的方式从事局部的研究。结果是，业余人员更难在专业地质刊物上发表论文。这种结果因为评审制度的引入表现得更突出。开始是19世纪国家级杂志的引入，后来是20世纪数家地方地质杂志的引入（长难句④）。这样发展的必然结果是出现了针对专业读者和业余读者的不同杂志。类似的分化过程也导致专业地质学家聚集起来，形成一两个全国性的团体，而业余地质学家则要么留在地方性团体中，要么以不同方式组成全国性的团体。
+虽然职业化和专业化过程在19世纪的英国地质学界中己经开始形成，但是它的效果却延迟到20世纪才充分显示出来。然而，从科学这个整体来看，I9世纪必须被视为科学结构发生变化的关键时期。
+
+第二篇
+
+一、文章结构总体分析
+本文主要讨论因特网在信息时代的重要性及如何利用外资帮助贫困国家搞好第三次电子基础建设。作者从“数字化分界”（digital divide）的概念入手，谈及互联网对消除数字化分界的作用，最后呼吁贫困国家积极引用外资普及互联网。
+文章从意群上讲，主要为两个部分：前两段是一个意群，后两段是另一个意群。
+第一段：前半部分提出很多人对于数字化分界的出现比较担忧，但是作者认为情况还是令人乐观的。段落最后一句为主题句。
+第二段：结构为总—分—总，第一句为主题句，中间部分说理论证，倒数第二句话进行总结。该段从技术角度证明数字化分界会缩小。本段最后一句话实际是下一段的主题句，即互联网可以用来摆脱贫困。
+第三、四段：要想充分利用互联网，就要积极利用外资。无论是在第二次基础建设浪潮中的美国，还是现在第三次电子基础建设浪潮(指电子产业设施，如：互联网)中的贫困国家，外资引进同样十分重要。该段落使用说理和例证两种论证方法。
+
+二、试题具体解析
+ 
+25. Digital divide is something       .
+[A] getting worse because of the Internet
+[B] the rich countries are responsible for
+25. 数字化分界是     。
+[A] 差异因为互联网而（变恶化）加大
+
+[B] 应该由富裕国家负责
+
+[C] the world must guard against
+[D] considered positive today 
+[C] 全世界应该警惕
+[D] 信息差现在被认为是积极的因素 
+[答案] C
+[解析] 本题考核的知识点是：事实细节题。
+本题要求考生把握作者对数字化分界的基本态度和观点。关键是对文章第一句话的理解。该句提到，今天所谓的数字化分界正在被高度重视。接下来作者提到，他和妻子20年前就在讲演中谈到这种隐约出现的危险（looming danger），这里的danger当然是指前面提到的“the digital divide”，即数字化分界。既然是危险，当然要警惕。因此C选项为正确答案。A选项与文章第二段谈到利用“technological reasons”即“Internet”可以缩小数字化分界相矛盾；无论从首段对数字化分界的定义中或是下面对缩小数字化分界的论述中，都可知D选项与作者的态度相反。文中没有提及这一现象是谁造成，由谁负责，因此B选项不对。
+词汇补充：loom隐现，迫近，常令人生畏，如：An enormous shape looms in the distance, out of the darkness. 
+26. Governments attach importance to the Internet because it     .
+[A] offers economic potentials
+[B] can bring foreign funds
+[C] can soon wipe out world poverty
+[D] connects people all over the world
+26. 政府重视互联网是因为       。
+
+[A] 提供经济潜能
+[B] 互联网可以带来海外投资
+[C] 能很快消灭贫困
+[D] 它将世界连成一片 
+[答案] A
+[解析] 本题考核的知识点是：因果关系题。
+本题要求考生弄清各种因果关系。通过题干关键词“Governments”和“Internet”定位到第二段。该段提到，随着互联网越来越趋于商业化，普及上网（universalize access）符合商家的利益，因为网络会给他们带来更多的潜在顾客。因此，各国政府惟恐落后于形势，都想普及上网（spread Internet access）。可见，政府关心的是互联网带来的经济利益。因此，A选项为正确答案。
+B选项因果颠倒。全文第四段重点谈到利用外资可以发展互联网。C选项“不切实际。虽然作者提到了互联网可能是战胜贫困的工具，但是这仅仅是一种潜力，把这种力量转化为现实还取决于很多因素。D选项只能是互联网的一种功能，但不是政府关注的直接原因。
+ 
+27. The writer mentioned the case of the United States to justify the policy of       .
+[A] providing financial support overseas
+[B] preventing foreign capital’s control
+[C] building industrial infrastructure
+[D] accepting foreign investment
+27. 作者提及美国的例子是要证明
+      的政策是正确的。
+
+[A] 向海外提供资金援助
+
+[B] 防止外资的控制
+
+[C] 建立工业基础设施
+[D] 接受外资
+ 
+[答案] D
+[解析] 本题考核的知识点是：作者意图题。
+本题要求考生辨析作者的写作目的。例证的写作手法通常采用论点—例子，例子—论点，或论点—例子—重申论点的形式，因此考生要到例子前后去寻找该论据所要说明的论点是什么。在最后一段的例子中作者介绍了美国在第二次基础设施浪潮期间是如何利用外资搞好基础建设的。在举例之前，作者建议贫困国家应该抛弃认为外国投资是对本国主权入侵的陈腐观点。举例之后，作者更直接指出，哪个国家利用外资多（The more foreign capital），哪个国家就将更富裕（the better off）。D选项正是作者举这个例子要提倡的。A选项与文意相反；B选项是作者建议人们不要担心的；C选项是例子中谈到的事实，但不是作者想要说明的问题。
+ 
+28. It seems that now a country’s economy  28. 现在一个国家的经济很大程度上似乎
+depends much on      .                       取决于      。
+[A] how well-developed it is electronically      [A] 其电子工业发展的程度
+[B] whether it is prejudiced against immigrants  [B] 它是否反对外来移民
+[C] whether it adopts America’s industrial      [C] 它是否采用美国的产业模式
+ pattern 
+[D] how much control it has over foreign         [D] 它在多大程度上控制着外企
+corporations 
+ 
+[答案] A
+[解析] 本题考核的知识点是：引申推理题。
+文章最后一段提到现在第三次电子基础建设浪潮（Third Wave infrastructure, which today is an electronic infrastructure）中哪个国家接受的外资越多就越富有，言外之意是利用外资进行电子基础建设才是富有与否的关键。这足以说明A选项 “其电子工业发展的程度”对于一个国家经济发展的重要作用。
+B选项和D选项的内容文中根本未提到。作者谈到美国，只是作为一个引用外资建设基础设施的成功范例，而不是提倡完全效仿它的模式。所以C选项也不对。
+
+三、文章长难句分析与佳句赏析
+长难句分析:
+①As the Internet becomes more and more commercialized, it is in the interest of business to universalize access—after all, the more people online, the more potential customers there are. 
+该句子的主句是it is in the interest of sb to do sth.（做某事符合某人的利益），前面是As引导的状语从句表伴随：随着…，破折号后面的一句话是对主句的解释。
+②To take advantage of this tool, some impoverished countries will have to get over their outdated anti-colonial prejudices with respect to foreign investment.
+该句结构并不复杂，关键注意其中的几个介词短语的使用，get over克服，从……中恢复过来；with respect to，涉及、提到或关于某事物。主句前是to引导的目的状语从句。
+③The more foreign capital you have helping you build your Third Wave infrastructure, which today is an electronic infrastructure, the better off you’re going to be. 
+该句中有一个比较级的固定结构the more…the more，表示“越……越……”，which引导的定语从句解释前面的Third Wave infrastructure。
+佳句赏析:
+①And that is very good news because the Internet may well be the most powerful tool for combating world poverty that we’ve ever had.
+句中may well+动词原形结构相当于have good reason to，意为“理应，有足够的理由”。如：He may well be proud of his son.（他大可以以他的儿子为荣）。该句子用这个结构来强调“网络完全可以成为最有力的工具来战胜世界贫困”。
+②Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure (the basic structural foundations of a society) in the United States. 
+Might/may (as) well +动词原形结构常常用来建议或劝说某人采取某种活动，有时相当于had better，译为“还不如，不妨”。如：Students that still have some problem with this lesson might well ask me after class.（那些对这篇课文仍然有问题的同学不如课后再问一下我）。该句中作者建议那些抱有偏见的人不妨研究一下美国基础设施建设的历史。
+
+四、核心词汇与超纲词汇
+(1) attention做“注意力”讲是不可数名词，和它构成的动宾搭配在含义上主要分为两类：一是“（某事）引起（某人的）注意”，如：attract/ arrest/ call /catch/draw / get /invite one’s attention to sth.，engage one’s attention；二是“（某人）注意（某事）”concentrate attention upon/on sth.，devote/turn/give attention to sth，此外，divert attention from sth（转移注意力）
+(2) digital divide数字化分界；digital（a.）数字的，信息的；divide（n.）：分界线，分水岭，差异
+(3) lecture（n./v.）演讲，讲课，～to somebody on something；教训，谴责
+(4) commercialize（v.）商业化；-ize后缀意为“…化”，如：universalize普遍化。
+(5) access（n.）通道，访问，接近，接近权，享用权，have/gain/get/obtain access to sth.，（v.）存取，接近，得到，了解；accessible（a.）易接近的, 可到达的, 易受影响的, 可理解的；inaccessible（a.）无法接近的，不能达到的，难懂的
+(6) combat（n. /v.）搏斗，斗争，～ poverty 对抗贫困，也可用defeat poverty。
+(7) impoverished（a.）贫穷的，词根 -pover- 意为“贫穷”，impoverish：使贫穷
+(8) anti-colonial（a.）反殖民主义的，anti-前缀表示“反，抗”，如：antibody抗生素；antislavery反奴隶制
+（9）sovereignty（n.）主权（国家），君主，词根-reign-意为“统治, 支配”。
+（10）infrastructure（n.）基础设施，前缀infra-表示“下，低”，如：infrared红外线（低于红线），infrasound亚音速（低于音速）。
+
+五、全文翻译
+今天，人们正在高度重视所谓数字化分界——世界上信息资源丰富的地区和信息资源贫乏的地区之间的差异。这个差异确实存在，我和我妻子20年前就曾就当时出现的这种临近的危险做过演讲。然而，那时还不太明显的是一些抵制数字化分界的、新的积极因素。现在我们是完全有理由感到乐观的。
+一些技术上的因素使我们有理由期望数字化分界会缩小。随着互联网的日趋商业化，普及上网对商家是有利的——毕竟，上网人数越多，潜在的客户就越多（长难句①）。越来越多的政府，惟恐自己的国家落后，纷纷推广互联网的普及。未来一二十年之内，全球将有一二十亿人加入互联网。因此，我认为在未来的数年中，数字化分界将缩小而不会变大。那是好消息，因为互联网完全可以成为我们战胜所面临的贫困的最强有效的工具（佳句①）。
+当然，使用互联网不是惟一战胜贫困的方法。互联网也不是我们所拥有的惟一工具，但它却有巨大的潜力。
+要想利用互联网这一工具，某些贫困国家必须克服对外国投资所持的过时了的反殖民主义偏见（长难句②）。那些认为外国投资是侵犯本国主权的国家不妨研究一下美国的基础设施（社会的基本结构基础）建设历史（佳句②）。当初美国建设自己的工业基础设施时，缺乏必要的资金，因此美国的第二次浪潮基础设施建设，包括公路、港口、高速公路、港口城市等等——都是用国外资金建造的。英国人、德国人、荷兰人和法国人都在前英国殖民地投资。他们提供资金，美洲移民建造。想想看，现在谁拥有这一切？美国人。我想，在这件事上，像巴西或其他任何地方同样也该这样。你拥有的去建造第三次浪潮基础设施建设（今天主要指电子基础设施）的外国资金越多，那么你的情况就越好（长难句③）。这并不是说卑躬屈膝，任人愚弄，也不是对外国公司不加控制。但这的确意味着你已认识到外国公司对本国能源及通信基础设施建设的重要性，这些基础设施是充分利用互联网所必要的。
+
+第三篇
+
+一、文章结构分析
+这是一篇关于美国新闻媒体遭受不信任危机的文章。文章介绍了一个针对此不信任危机而开展的调查，并阐述造成这一危机的原因，也是调查失败的原因。文章前两段交待了背景，第三段首先给出主题，在下面的三段中，逐步深入地追寻其背后的深层次原因，最后两段进行总结。整篇文章的论证方法主要是说理。
+第一段：第一句以疑问句的形式提出问题，并指出该调查的目的。
+第二段：直接指出该调查的结果不令人满意。
+第三段：第一句为主题句——对媒体不信任是由于深层次原因。本段中“in other words”说明本段的论证方法是典型的说理。
+第四段：进一步举例说明上段提到的新闻“标准模式”与普通人的生活相距甚远。
+第五段：进一步指出这种差距是由于新闻界人士的生活态度导致的。
+第六段：对文章观点进行总结。
+第七段：指出这一趋势的危害。
+
+二、试题具体解析
+ 
+29. What is the passage mainly about?
+［A］Needs of the readers all over the world.
+［B］Causes of the public disappointment about newspapers.
+［C］Origins of the declining newspaper industry.
+［D］Aims of a journalism credibility  29.文章主要谈论      内容。
+［A］世界各地读者的需要
+
+［B］造成公众对报纸失望的原因
+
+［C］造成报业衰败的根源
+
+［D］一个新闻可信度调查项目的目的
+ 
+project.
+[答案] B
+[解析] 本题考核的知识点是：文章主旨题。
+文章首段就是主题段。第一句提出本文的主旨问题“为什么那么多美国人不相信自己在报纸上看到的东西？”这就是整个文章要回答的问题，也是以疑问句形式出现的文章主题，是主旨问题的一个改写。因而B选项为答案。选项中的disappointment是原文中distrust的近义词。
+A选项与文章谈的新闻遭受的信任危机无关，并非文章主要内容。文章只有最后第一段首句提到报业是一个日趋衰败的行业，但是未对衰败原因进行探究，所以C选项不对。D选项仅仅在第二段提及这一项目的内容和发现，属于细节内容，而非主题内容。
+答题技巧：答主旨类型的题目关键是找到主题段（一般为首段）或其他各段的主题句（一般为首句）。一般而言，主题段包含文章主题思想。如无主题段，则找到各段的主题句加以归纳和总结，便可得出文章中心。
+ 
+30. The results of the journalism credibility project turned out to be .
+［A］quite trustworthy
+［B］somewhat contradictory
+［C］very illuminating
+［D］rather superficial
+30. 新闻可信度调查项目的结果是     。
+
+
+［A］相当可信
+［B］有点矛盾
+［C］很有启发
+［D］相当肤浅
+ 
+[答案] D
+[解析] 本题考核的知识点是：事实细节题。
+第二段涉及该调查的结果。该段指出“这次新闻机构可信度的调查计划只得出一些极其肤浅的结论（low-level findings）诸如新闻报道中的事实错误，拼写或语法错误，和这些低层次发现交织在一起的还有许多令人挠头的困惑,譬如读者到底想读些什么。”因此 D选项是正确答案，答案中的superficial是原文low-level的近义词。其他三个选项文中均未提及，也无法推导出。
+答题技巧：对于这类形容词的选项，考生首先可以判断这些词哪些是褒义，哪些是贬义，以便缩小范围。例如，本题中考生如果先确定作者对于该发现的态度为否定的话，就可以把答案首先确定到B、D两个选项内，接下来需要考虑的问题就是“矛盾”还是“肤浅”。
+ 
+31.The basic problem of journalists as pointed out by the writer lies in their       .
+［A］working attitude
+［B］conventional lifestyle
+［C］world outlook
+［D］educational background
+31.作者指出的记者们存在的基本问题是他们的       。
+
+［A］工作态度
+［B］传统生活方式
+［C］世界观
+［D］教育背景
+ 
+[答案] C
+[解析] 本题考核的知识点是：事实细节题。
+第六段指出，“读者对新闻媒介令人震惊的不信任的根源不是……，而是记者与读者的世界观每天都发生着碰撞（the daily clash of world views）”。因此，C选项为正确答案。
+A选项文中未提及。B选项和D选项应该属于记者和读者不同的两个方面，但仅是表面现象，不是问题的根本说在。
+ 
+32. Despite its efforts, the newspaper 32．尽管新闻界付出了努力，仍然不能满足
+industry still cannot satisfy the         读者的需要是由于       。
+readers owing to its        .
+［A］failure to realize its real problem    ［A］没有认识到真正的问题所在
+［B］tendency to hire annoying reporters    ［B］往往雇用令人厌烦的记者
+［C］likeliness to do inaccurate reporting  ［C］可能进行失真的报道
+［D］prejudice in matters of race and gender［D］有种族和性别偏 
+[答案] A
+[解析] 本题考核的知识点是：事实细节题。
+最后一段谈到新闻业为此做出的种种努力，如“出资组织研讨会和可信度调查项目、探究为什么顾客们恼火以及为什么会有那么多人逃避新闻”；接着用but话锋一转，指出他们没有做到的方面，即“但是它似乎从来就没有回过头去注意文化方面和阶级方面的偏见，而这正是很多以前的顾客抱怨的内容”。由此可以总结得出，他们的问题就是没有对症下药。因此A选项是正确答案。
+B选项、C选项都是表面现象，和D选项均与该段最后一句“这个项目现在还只是单纯考虑招收不同种族和性别的员工”的事实不符。
+
+三、文章长难句分析与佳句赏析
+长难句分析：
+① Sad to say, this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes, combined with lots of head-scratching puzzlement about what in the world those readers really want.
+句子主干是...this project has turned out to be ... findings ...。about factual errors and spelling and grammar mistakes是宾语findings的补语成分；后接过去分词combined引导的伴随状语，其中about what in the world those readers really want是puzzlement的补语。
+② Most journalists learn to see the world through a set of standard templates (patterns) into which they plug each day’s events. In other words, there is a conventional story line in the newsroom culture that provides a backbone and a ready-made narrative structure for otherwise confusing news.
+这两句生动地介绍了新闻界的工作方式。两句各自含有一个定语从句，第一句中的定语从句为into which they plug each day’s events，修饰前面的中心名词into which they plug each day’s events，后一句中的定语从句由that引导，修饰前面的a conventional story line。
+知识点补充：“plug sth. into sth.”意为“塞入、插入”；“story line”指“叙述故事的线路、套路”；“culture”在这指“某群体或民族的风俗、人文现象、社会惯例”，如： enterprise culture.（企业文化）。
+③ If it did, it would open up its diversity program, now focused narrowly on race and gender, and look for reporters who differ broadly by outlook, values, education, and class.
+此句为虚拟语气，主要结构为：If it did, it would open up...and look for...。其中在由and连接的两个并列谓语，插入成分now focused narrowly on race and gender为过去分词形式的后置定语，修饰program。第二个谓语结构中，宾语reporters后面有一个who引导的定语从句。
+佳句赏析：
+Replies show that compared with other Americans, journalists are more likely to live in upscale neighborhoods, have maids, own Mercedeses, and trade stocks, and they’re less likely to go to church, do volunteer work, or put down roots in community.
+句子中are more likely to... and ... are less likely to...后都跟了三个不定式做补语，前后对应，结构严谨，给人一种层次美。
+
+四、词汇注释
+（1）alien（a.）（to）不相容的；（from）相异的；（n.）外侨；外星人
+（2）diversity（n.）差异；多样性；不同
+（3）get round to 找时间做，开始考虑
+（4）head-scratching（a.）困惑的，令人挠头的
+（5）metropolitan（a.）大城市的；宗主国的
+（6）random（a.）随机的，随意的；（n.）随机，随意
+（7）symposium（n.） 讨论会，专题报告会；专题论文集
+（8）template（n.）模式，样板
+
+五、全文翻译
+为什么那么多美国人不相信自己在报纸上看到的东西？美国新闻编辑协会正试图回答这个痛苦问题。该组织正深深陷入一个长期的自我剖析过程中，即，一个称为新闻可信度的调查项目。 
+遗憾的是，这次新闻机构可信度调查计划结果只获得了一些肤浅的发现，诸如新闻报道中的事实错误，拼写或语法错误，和这些低层次发现交织在一起的还有许多令人挠头的困惑,譬如读者到底想读些什么。（长难句①）
+但这种对媒体的不信任有更深刻的根源。多数新闻记者都学着用一套标准的模式去看待世界，并把每天发生的事件套入这一模式即可。换言之，在媒体的新闻采编室文化中存在着一套约定俗成的写作模式，为纷繁复杂的新闻报道提供了一个主干框架和一个现成的故事叙述套路。（长难句②） 
+新闻记者和读者之间存在着社会和文化方面的脱节，这就是为什么新闻编辑室的“标准模式”与众多读者的意趣相差甚远。在最近一次调查中，问卷被送到了全国五座中等城市及一座大都市的记者手中，然后随机地给这些城市的居民打电话，问他们同样的问题。 
+结果表明，与其他美国人相比，新闻记者更有可能居住在富人区，有女佣，有奔驰车，炒股，而不大可能去教堂，参加志愿服务，扎根某个社区。（佳句）
+记者们往往属于广义的社会和文化精英的一个部分，因此他们的工作往往反映了这些精英的传统价值观。读者对新闻媒介令人震惊的不信任，其根源并非是报道失实或低下的报道技巧，而是记者与读者的世界观每天都发生着碰撞。 
+这对任何一个行业来说，都是一个句有破坏力的形势，对于一个正在衰落的行业来说尤其如此。这是一个有很多麻烦的行业，却不断地雇佣观点总使客户恼怒的雇员。然后它又出资组织研讨会和可信度调查项目，去探究为什么顾客们生气，而大量流失。但它似乎从来就没回过头来去注意那么多以前的顾客所抱怨的文化和阶级偏见。如果它能注意这个问题的话，它就应该进一步开放其多样化项目（这个项目现在还只单纯考虑招收不同种族和性别的员工），进一步寻找那些世界观、价值观、教育水平和社会阶层各不相同的记者。（长难句③）
+
+第四篇
+
+一、文章结构总体分析
+本文是关于企业兼并与收购的一篇文章。作者从目前的兼并与收购浪潮现象着手，分析其产生的原因及带来的影响。
+第一段：首句提出世界正在经历一场兼并与收购浪潮，段尾以问句的方式提出文章主题：这种兼并是否会演变成一种无法控制的反竞争力量？
+第二段：用数据证明了企业合并形式之一，即跨国公司贸易的增长。
+第三段：解释了造成企业合并现象的原因。
+第四段：分析了合并热潮的影响，认为它没有给消费和技术进步带来危害，还有可能使世界财富增长。该段论证中既进行推理也使用了例证。
+第五段：第一句为本段主题，即：人们对这种兼并还需要加以注意。论证中使用较多反意疑问句以加强语气。
+
+二、试题具体解析
+ 
+33. What is the typical trend of businesses today?
+[A] To take in more foreign funds.
+[B] To invest more abroad.
+[C] To combine and become bigger.
+[D] To trade with more countries.
+33.  当今企业发展的主要趋势是     ？
+
+[A] 吸收更多外资
+[B] 更多地向海外投资
+[C] 合并并且变得更庞大
+[D] 与更多国家做生意 
+   [答案] C
+[解析] 本题考核的知识点是：事实细节题。
+文章第一段就指出，当今企业界出现的一个现象，即整个世界正在经历一场前所未有的（ever witnessed）兼并与收购浪潮（wave of mergers and acquisitions，或M&A wave ）。这一并购之风从异常活跃的美国到达欧洲，并以不可比拟的威力（unsurpassed might）影响到新兴经济国家。接着第二段谈到跨国公司在世界范围内贸易的迅猛增长。因此，C选项即文中多次提到的mergers and acquisitions，是当今企业发展的主要趋势。其他三项都不符文意。
+答题技巧：命题者的意图在于考核考生能否把握该段段落主旨句为首句，并且理解句中关键字眼mergers and acquisitions的意义。
+ 
+34. According to the author, one of the driving forces behind M&A wave is     .
+[A] the greater customer demands
+[B] a surplus supply for the market
+[C] a growing productivity
+[D] the increase of the world’s wealth
+34. 按照作者观点，推动合并和收购浪潮的动力之一是       。
+
+[A] 顾客更大的需求
+[B] 对市场的供给过分充裕
+[C] 日益增长的生产率
+[D] 世界财富的增长
+ 
+[答案] A
+[解析] 本题考核的知识点是：事实细节题。
+第三段剖析造成并购潮流的重要原因。它们和导致经济全球化过程的因素是一样的，如：交通运输成本的日趋下降、贸易和投资壁垒的降低和扩大了的市场以满足需要扩大运作而方能满足顾客的需求。显然，A选项即为上面提到的三个因素之一，为正确答案。B选项即市场供应过剩，应该是企业缩小生产的原因。其他C和D两项在文中均没有提及。
+ 
+35. From paragraph 4 we can infer that     .
+[A] the increasing concentration is certain to hurt consumers
+[B] WorldCom serves as a good example of both benefits and costs
+[C] the costs of the globalization process are enormous
+[D] the Standard Oil trust might have threatened competition
+35. 从第4段中，可以推断出     。
+
+[A] 日益增长的合并浪潮肯定会损害顾客的利益
+[B] 世界通信公司是关于合并并且利弊兼有的一个很好的例子
+[C] 全球化过程成本巨大
+
+[D] 标准石油联合公司可能对竞争形成过威胁
+ 
+[答案] D
+[解析] 本题考核的知识点是：推理引申题。
+第四段首句提到，关于目前合并浪潮一定会带来利或弊的例子还不多见。第二句接着指出，但是目前数家石油公司的合并，是否会再次对竞争造成威胁却难以预料；100年前美国的标准石油联合公司（Standard Oil trust）被解散，就是因为当时人们担心它会对竞争构成威胁。由此可以推知D选项为正确答案。
+从该段的电信业和汽车工业的例子可知，企业合并没有带来价格上涨或阻碍技术进步，因而消费者的利益也未受损害。所以A选项与本段最后一句话不符。文中举了世界通信公司的例子（本段第3句）只是说明合并并没有带来坏处，而不是B选项。C选项在文中根本未涉及。
+ 
+36. Toward the new business wave, the   36. 作者对新出现的企业合并浪潮
+writer’s attitude can he               的态度是       。
+said to be      .              
+[A] optimistic	           [A] 乐观的
+[B] objective	           [B] 客观的
+[C] pessimistic	           [C] 悲观的
+[D] biased                              [D] 有偏见的
+[答案] B
+[解析] 本题考核的知识点是：作者态度题。
+在第三段最后两句中，作者明确指出“所有这些（推动合并的因素）对消费者来说都是有益而无害。随着生产力的提高，世界的财富亦随之增长。”第四段作者举例说明合并没有给消费和技术进步带来危害。到了第五段，作者开始提醒人们要避免它带来的不利影响。可见，作者提到合并浪潮可能产生的正反两方面的影响，就事论事，并且列举大量数字和事实进行说明。所以作者的态度应该是客观的，因此B选项为正确答案。
+知识点补充：作者在文中一般使用带有褒贬色彩的词汇（尤其是形容词和动词），或者引用专业和权威人士的话去表明自己的态度。
+
+三、文章长难句分析与佳句赏析
+长难句分析：
+    ① International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment.
+该句主干为International affiliates account for…，其中“that”引导的是一个定语从句，修饰“economies”。
+知识点补充：“affiliates”指世界各地的分公司；“account for”意为“是……的原因”、“导致，引起”或“占……比例”；“economies”用的是复数形式，指的是各个国家经济领域的各行各业。
+② I believe that the most important forces behind the massive M&A wave are the same that underlie the globalization process: falling transportation and communication costs, lower trade and investment barriers and enlarged markets that require enlarged operations capable of meeting customers’ demands. 
+该句主干是“I believe that”加上一个较长的宾语从句。从句中，主干为the most important forces…are the same that …，that引导一个定语从句，修饰前面的the same。冒号后的成分一般是起解释的作用，这里列举原因。
+知识点补充：“forces behind”和“underlie”意思相同，都表达“造成…的原因”。
+③ Yet it is hard to imagine that the merger of a few oil firms today could re-create the same threats to competition that were feared nearly a century ago in the US, when the Standard Oil trust was broken up. 
+该句主干是“It is hard to imagine that...”。第一个that引导imagine的宾语从句。宾语从句中又含有一个that引导的定语从句，修饰“competition”，定语从句中包含一个由“when”引导的时间状语。Standard Oil trust指美国石油托拉斯，它像现在的微软公司因为有垄断之嫌而被迫解体。
+佳句赏析：
+① The world is going through the biggest wave of mergers and acquisitions ever witnessed.
+该句运用暗喻的修辞手法，形象地使用wave一词描述全球企业兼并的大趋势。
+② This phenomenon has created serious concerns over the role of smaller economic firms, of national businessmen and over the ultimate stability of the world economy.
+该句运用两层并列形式的结构，达到较强的语境效果。over the role和over the ultimate stability的并列是第一层，role后面的两个of是第二层并列。
+
+四、核心词汇与超纲词汇
+（1）affiliate（n./v.）分公司,附属机构；使附属于
+（2）detrimental（a.）不利的。～ to ...对……不利的
+（3）hyperactive（a.）极其活跃的；hyper是一词缀，常与形容词或名词结合，意为“过度的”，如：hypercritical 吹毛求疵的
+（4）infringement（n.）侵害
+（5）megamerger（n.）大型合并；mega-是一词缀，意为“大，强”，如megacity 特大城市
+（6）merger（n.）合并，归并；acquisition获得，收购
+（7）take upon oneself承担
+（8）warn against告诫、提防（不要做某事）；warn sb. of sth.提醒某人某事
+
+五、全文翻译
+世界正在经历一场从未见过的巨大的并购浪潮。（佳句①）这个浪潮从异常活跃的美国席卷到欧洲，并以不可比拟的威力影响到正在崛起的国家。这些国家的许多人看着这个浪潮，忧虑着：“企业合并的浪潮会不会产生一种无法控制的反竞争力量?”
+无疑，大企业正在变得更大、更强。跨国公司在1982年只占有国际贸易不到20%的份额。目前，这个数字上升到25%，并且还在迅速上升。在那些对外开放并欢迎外资的国家的经济中，国际分公司在国民生产中形成一个快速增长的部门。（长难句①）例如，在阿根廷，经过90年代初的改革之后，跨国公司在200家大型企业的工业生产中从43%增加到几乎70%。这个现象使得人们非常担忧小型企业，民族资本的作用，也使得人们对世界经济的最终稳定产生了忧虑。（佳句②）
+我认为，推动这次巨大的并购浪潮的最主要的力量，也是推动全球化进程的力量，就是运输与通讯费用的降低，贸易与投资障碍的减少，以及市场的扩大和为满足市场需求的生产的扩大。（长难句②）所有这些对消费者来说都有益而无害。随着生产力的提高，世界的财富也就增长了。
+ 目前这场合并浪潮的利与弊并无多少实例。但是很难想象当今的几个石油公司的合并能够重新造成100年前美国标准石油公司被解散时人们担心它对竞争造成的威胁。（长难句③）通讯公司的合并，如世界通讯公司，似乎没有给消费者带来更高的价格，或者滞缓了技术进步的速度。在汽车行业，合并也同样在增加，看看戴姆勒与克莱斯勒，雷诺与尼桑，但仿佛消费者并未受到伤害。
+但是事实仍然是，合并运动必须受到严密监视。几星期以前，格林斯潘对银行业的大规模合并发出了警告。如果如此巨大的银行出现，谁来充当最终的借贷者，发挥监督、管理和运作的作用?当一个国家对破坏公平竞争的行为的处理过于严格时，跨国公司会不会把它们的产业从一个地方转到另一个地方?在事情将影响所有国家的情况下，一个国家是否应该独自担负起“保护竞争”的责任，如美国政府诉讼微软公司的案件?
+
+第五篇
+
+一、文章结构总体分析
+本文是一篇关于美国人追求简朴生活这一潮流的散文。作者以第一人称的笔调叙述了自身生活态度和方式的转变经历，进而谈及整个美国的情形及剖析这股潮流的成因。从写作特点来说是一篇夹叙夹议的文章，叙述部分（前三段）是一个引子，为后面的议论作铺垫。
+前三段：作者通过对自己生活方式转变的总结，进而讲述当初辞职的初衷以及现在作者的生活，并总结自己生活变化带来的益处和感悟。
+第四段：段首指出这种生活方式在美国成为一个潮流，并列举一些实例说明其普遍性。
+第五、六段：探讨美国和英国这一趋势的成因，并总结这种生活方式的实质就是认识到自己的局限性。
+
+二、试题具体解析
+ 
+37. Which of the following is true according to paragraph 1?
+[A] Full-time employment is a new international trend.
+[B] The writer was compelled by circumstances to leave her job.
+[C] “A lateral move” means stepping out of full-time employment.
+[D] The writer was only too eager to spend more time with her family.
+37.  按照第一段，下列哪个是个说法是正确的？
+[A] 全职工作是一种新的国际时尚。
+
+[B] 作者因环境所迫而辞职。
+
+[C] “平级调动”意味着退出全日制工作。
+
+[D] 作者太想多花点时间和家人在一起了。
+
+ 
+[答案] B
+[解析] 本题考核的知识点是：事实细节题。
+本题考查考生对细节的理解，包括读懂每句话的含义，及弄清前因后果和事实。文章第一段第二句讲到，“一次工作的平级调动（a lateral move）伤害了我的自尊，阻碍了我在工作上的升迁，这促使我放弃了相对体面的（high profile）工作生涯”。可见，作者辞职是有外因的。B选项“作者因环境所迫而辞职”与该事实相符，是正确答案。
+A选项与原文相矛盾。第一句说的是我辞去全职工作（quit my full time employment）使我成为国际时尚的一分子，而不是做全职工作。C选项错误地把“A lateral move”理解为放弃全职工作。lateral原意是“横向的”，这里指“平级之间的”。第一段末句提到，为了掩饰（cover）辞职的真正原因，我找了一个“想多花些时间和家人在一起”的借口，因此D选项是托词而不是事实。
+ 
+38. The writer’s experiment shows that 
+38. 作者的经历表明“放慢生活节奏”
+downshifting    .
+[A] enables her to realize her dream
+[B] helps her mold a new philosophy of life
+[C] prompts her to abandon her high social status
+[D] leads her to accept the doctrine of She 
+    是     。
+[A] 使她能够实现梦想
+[B] 使作者形成了一种新的生活哲学
+[C] 促使她放弃了较高的社会地位
+
+[D] 使她接受了《女性》杂志的观点 
+magazine
+[答案] B
+[解析] 本题考核的知识点是：事实细节题。
+本题仍然考查考生对细节的理解，要求考生从作者的经历去分析其生活态度前后的转变，关键在于把握第二段末句“transform from...into...”的结构。作者在第二段谈到，“经过约两年半的时间并发表了两部小说以后，我那被美国人称之为‘放慢生活节奏’的生活经历，却将我反复用的借口（指第一段最后一句掩饰辞职原因的话）转化为实实在在的事实。我已经从一个‘拥有一切’（having it all）生活哲学的积极倡导者（这是过去七年里Linda Kelsey一直在《她》杂志上鼓吹的生活方式），变成一个知足常乐（settle for a bit of everything）的女人”。可见B选项正确，因为她从这次生活经历中有了重新认识，形成了新的人生观。
+从文章内容可知，“放慢生活节奏”并不是作者原有的梦想，而是当初迫不得已的选择，只是后来她意外发现自己喜欢上了这种生活方式，所以A选项不对。C选项是最初的平级调动带来的结果，而非放慢生活节奏的结果。D选项恰恰与文中事实相反，实际结果是抛弃而非接受。
+ 
+39. “Juggling one’s life” probably means living a life characterized by     .
+[A] non-materialistic lifestyle
+[B] a bit of everything
+[C] extreme stress
+[D] anti-consumerism
+39. “Juggling one’s life”有可能意味着过      的生活。
+
+[A] 不追求物质利益的生话方式
+[B] 任何东西都有一点就行
+[C] 极度紧张
+[D] 反消费主义
+ 
+[答案] C
+[解析] 本题考核的知识点是：词义题。
+本题考查考生通过上下文猜测词义的能力。考生关键要通过对第三段首句复杂的句子结构的分析（见长难句③），知道“Juggling one’s life”即是“downshifting”的反面。在这个句子中，作者把“Juggling one’s life”和“downshifting”对立起来进行比较，因此前者应该指与“放慢生活节奏”相反的“工作压力大、忙忙碌碌的生活”。下文第二句话中的四个并列名词短语“12-hour working days, pressured deadlines, the fearful strain of office politics and the limitations of being a parent on ‘quality time’”（一天工作12小时、每件事情都有最后的期限、公务上争权夺利带来的可怕压力以及因为时间有限连做母亲也得“高效率”）对该短语进行了进一步解释。显然只有C选项是对这些特征的高度概括。注意第四段首句提到的A选项、第二段提到的B选项和第四段第二句谈到的D选项的内容都是“downshifting”的特征。
+词汇补充：politics原意多指“政治事件、政治生活、政治活动”，也可指“一个群体或组织内部为争夺权利和利益的斗争”如：Church politics 教会的明争暗斗。
+ 
+40. According to the passage, downshifting emerged in the US as a 
+40．根据课文，“放慢生活节奏”在美国出现是_      的结果。
+result of       .
+[A] the quick pace of modern life 
+[B] man’s adventurous spirit
+[C] man’s search for mythical experiences 
+[D] the economic situation
+
+[A] 快节奏的现代生活
+[B] 人们的冒险精神
+[C] 人们对神秘的生活体验的追求
+
+[D] 经济形势 
+[答案] D
+[解析] 本题考核的知识点是：因果关系题。
+本题考查考生理解具体细节的能力。第五段首句指出，美国的这一趋势开始是对经济衰退的一种反映（a reaction to the economic decline），所以D选项“经济形势”是这种生活方式产生的原因。其它三个选项在文中都未提及。
+
+三、文章长难句分析与佳句赏析
+长难句分析：
+①A lateral move that hurt my pride and blocked my professional progress prompted me to abandon my relatively high profile career although, in the manner of a disgraced government minister, I covered my exit by claiming “I wanted to spend more time with my family”. 
+该句是由although连接含转折语气的两个分句：A lateral move prompted me to abandon my career和I covered my exit。前一分句的主语A lateral move由that引导的定语从句修饰；后一个分句中用了in the manner of（以…的方式）和by claiming两个结构做谓语covered的方式状语。
+②I have been transformed from a passionate advocate of the philosophy of “having it all”, preached by Linda Kelsey for the past seven years in the pages of She magazine, into a woman who is happy to settle for a bit of everything. 
+该句子的特点是定语修饰成分较多。句子主干是I have been transformed from a advocate... into a woman...，advocate后接of短语做定语，woman后接who引导的定语从句做定语。preached by...分词结构用做philosophy的定语。having it all指“拥有一切”，是一种享乐主义；settle for a bit of everything中的settle意为“安定、定局”，整个短语指“什么都只要一点”，即“很容易满足”。
+③I have discovered, as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress, that abandoning the doctrine of “juggling your life”, and making the alternative move into “downshifting” brings with it far greater rewards than financial success and social status. 
+该句子结构较复杂，有多重结构。第一重是主句的主干I have discovered ... that ...，that引导宾语从句：abandoning...and making…brings with it far greater rewards，其中主语由并列的动名词结构构成；第二重结构是：that前的插入语是个省略倒装句，as代替主句的谓语discover，其正常顺序应是perhaps Kelsey will discover after...；that后宾语从句中含有一个比较结构…brings greater rewards than…。Juggling one’s life中“juggle”原意为“耍把戏”，短语里借用它暗含的“忙个不停”的意思，表示“忙忙碌碌地生活”。
+④While in America the trend started as a reaction to the economic decline—after the mass redundancies caused by downsizing in the late-80s—and is still linked to the politics of thrift, in Britain, at least among the middle class downshifters of my acquaintance, we have different reasons for seeking to simplify our lives.
+该句子的特点是while引导两个分句形成对照，前一分句的主干是in America the trend started as a reaction and is still linked to the politics；后一分句的主干是in Britain we have different reasons；破折号之间的插入语是前一分句的时间状语；逗号间的插入语at least among…是后一分句的状语。
+⑤For the women of my generation who were urged to keep juggling through the ’80s, downshifting in the mid-90s is not so much a search for the mythical good life—growing your own organic vegetables, and risking turning into one—as a personal recognition of your limitations.
+该句子的主干中含有一个具有比较意义的结构downshifting is not so much a search...as a personal recognition（与其说是追求，不如说是个人认识）。句首介词结构For the women…做句子的状语，表示“对于…来说”，两个破折号之间的两个并列的动名词短语growing…and risking…是对前面名词the mythical good life的解释。
+佳句赏析：
+①When I decided to quit my full time employment it never occurred to me that I might become a part of a new international trend. 
+“When...it never occurred to me that...”结构可以表达在过去某个时间里没法预料到后来要发生的事情。如：Nobody can really expect his future. When Steven Doglas worked as a salesman in a shoes-shop of a small town, it never occurred to him that he might become a superstar three years later.
+②My experiment in what the Americans term “downshifting” has turned my tired excuse into an absolute reality.
+该句子中tired excuse使用了英语中的一种修辞格，叫“转移形容词”，即形容词形式上修饰事物，实际上用来修饰人所具有的某种品质、性质或状况。这种修辞格的使用使句子具有修辞效果，简洁而地道。类似的用法有：sleepless night（不眠之夜），wise decision（明智的决定），respectful distance（敬而远之），word by painful word（一字一字吃力地）smiling words（微笑着交谈）。句子中tired excuse指的是作者声称“累了想陪陪家人”来作为辞职的借口。
+
+四、核心词汇与超纲词汇
+(1) it occurred to sb. that… /it occurred to sb. to do sth. 某人想到某事，如：It occurred to her that she might adopt homeless child.（她突然想到可以收养一个孤儿）；Didn’t it occur to you to close the window.（你就没有想到要关窗户吗？）。
+(2) prompt（v.）促使，鼓动（n.）提示, 付款期限（a.）敏捷的, 迅速的, 即时的
+(3) profile（n.）剖面，侧面，外形，轮廓；态度，姿态，对公众暴露的程度（degree of exposure to public notice），能见度，如：keep a low profile保持低姿态
+(4) downshift（v.）原意指减低汽车的档，这里指“放慢生活节奏”。文中出现的downshifting是它的动名词形式，downshifter指的是选择这种生活的人
+(5) preach（v.）传教，宣讲；宣扬，鼓吹
+(6) resignation（n.）辞职（书）；放弃，顺从；resign（v.）辞职；听任
+(7) doctrine（n.）教条，学说，主义
+（8）anticonsumerism（n.）反消费主义。Anti-前缀意为“反，防”；-ism后缀意为“…主义”。如：antiwar反战的，anti-colonial反殖民主义的，materialism唯物主义，adventurism冒险主义
+（9）drop out退学，脱离，不参与，[美俚](因对传统的道德观和价值观不再抱幻想而)退出习俗社会，逃避现实
+（10）redundancy（n.）冗余；redundant（a.）多余的
+(11) mythical（a.）神话的，虚构的；myth：（n.）神话，虚构的故事
+(12) 本文词汇的特点是复合词的使用，包括(1) 副词+过去分词=复合形容词，文中出现了much-publicized多次公开宣称的 well-established稳定存在的，类似的词有：well-informed消息灵通的，much-needed非常需要的；(2) 动词+副词=名词，文中出现了build-up增大，类似的词有：put-off推迟，get-together联欢会，check-up检查；(3) 名词+名词=复合名词，文中出现了self-help自助，cling-filum（粘附+薄膜）保鲜膜，类似的词有：book review书评，traffic light街灯
+
+五、全文翻译
+当我决定辞去自己的全日制工作时决没有想到，自己竟成了一种新的国际性潮流的一分子（佳句①）。一次平级的人事调动伤了我的自尊心，并阻断了我的事业发展，这促使我放弃自己地位较高的职业，然而，我却像面子扫尽的政府部长那样，掩饰地说“我想与家人更多地呆在一起”（长难句①）。
+奇怪的是，大约两年半的时间我写完两部小说后，我这个被美国人称为“放慢生活节奏”的尝试，却使我所谓的累了的借口变成了现实（佳句②）。我已从一个“获得一切”哲学（琳达?凯茜过去七年中在《她》这本杂志所宣扬的）的狂热支持者，变成了一个乐于接受任何东西只要一丁点的女人（长难句②）。
+我已经发现（由于压力过大，凯茜已多次公开宣称要辞去《她》杂志编辑的职务，在这之后她也许会有同样发现），放弃“忙忙碌碌”的生活哲学，转而过一种“放慢生活节奏”的生活所带来的回报，比金钱和社会地位更有价值（长难句③）。什么也说服不了我回到过去那种凯尔茜所宣扬的、我也曾自得其乐的生活中去：每天12小时的工作日，压得人喘不过气来的最后期限，可怕而紧张的办公室里的争权夺利，以及在“最佳时期”做父母受到限制。
+在美国，摆脱忙碌，转而过一种简单、不太物质化的生活已成明确趋势。具有讽刺意味的是，“放慢生活节奏”——在美国也称“自愿简单化”——甚至孕育了一个崭新的、可称之为反消费主义的新领域。对于那些想过简单生活的人来说，有许多很畅销的帮你轻松生活的自助书籍；有各种像《守财奴简报》这样的简讯，给美国人提供成千上万条有用的点子，从回收保鲜膜到自制肥皂；甚至还有一些帮助团体，帮助有些人按90年代中期逃避社会现实的人的生活方式去生活。
+在美国，这种趋势一开始是对经济衰落所做出的一种反应——出现于80年代后期缩小经济规模所引起的大量人员冗余之后——现在这种趋势仍被认为与节俭政治有关联；而在英国，至少在我所认识的愿意简化生活的中产阶级中，却有着不同的缘由去寻求使自己的生活简单化（长难句④）。
+对我们这一代女性来说，整个80年代我们曾被迫忙碌地生活，90年代中期的简化生活与其说是寻求神话般的好生活——自己种有机蔬菜以及冒险成为像有机蔬菜一样简单淳朴的人——倒不如说我们都认识了自身的局限（长难句⑤）。
+
+第三部分   翻译试题解析
+
+一、试题总体分析
+这篇文章主要展望了科学技术给人类未来生活可能带来的各种变化，未来学家对科学突破性进展日期的预测，以及某些技术进步可能带来的社会问题。
+2001年度翻译试题难度适中，考点涉及了词义确定、非谓语结构以及从句的翻译。就此，考生可以总结出，词义确定和句子结构是翻译必考的项目。词义确定要求考生根据上下文和搭配的要求，确定某个特定词在本句中的意思以及翻译后选择的汉语表达，而这个意思往往不是考生在平时记忆的单词词义，可能是某个偏僻的词义、引伸义，甚至在该上下文中才有的、没有在词典中确定下来的意思。因此特别提醒考生不要字对字地翻译，而要在上下文中确定具体单词的意思，正如一句话说得好：“There is no meaning except in the context.”（只有在上下文中才有词义）。
+
+二、试题具体解析
+（41）There will be television chat shows hosted by robots, and cars with pollution monitors that will disable them when they offend.
+[解析] 本题考核的知识点是：定语从句的翻译、过去分词做定语、词义确定。
+句子的主干是there be 句型的将来时，译成“将会出现……，将有……”。hosted by robots是过去分词作后置定语修饰chat shows，由于不太长，翻译时可以前置做定语。pollution monitors（污染监控器）后面接的定语从句that will disable...offend并不是起修饰限定作用，翻译时不能把它前置做定语，此从句实际是说 pollution monitors 的功能，译时可独立成句。定语从句中包含一个when 引导的时间状语从句。
+词汇：chat shows即是近年来在我国也广为流行的电视谈话节目；host做名词为“（男）主持人”，做动词是“主持”；offend本意是“冒犯，侵犯”，在这里根据上下文，意思应当是“违规”，进而可译为（汽车）“污染超标”；disable的意思也应当根据上下文确定为“使（汽车）无法运转”。
+译文：届时，将会出现由机器人主持的电视谈话节目和装有污染监控器的汽车。一旦这些汽车排污超标（违规），监控器就会使其停驶。
+（42）Children will play with dolls equipped with personality chips, computers with in-built personalities will be regarded as workmates rather than tools, relaxation will be in front of smell television, and digital age will have arrived.
+[解析] 本题考核的知识点是：意译、介词结构作后置定语、rather than的译法。
+整个句子实际上由四个分句并列组成，由逗号和and 连接，但是最后一句从意思上看实际是一句总结性的话。第一分句中，equipped with personality chips是过去分词做定语修饰dolls；第二句是一个被动语态，其中主要结构为be regarded as … rather than …，意思为“被看作是……而不是……”，该句中with in-built personalities这一介词结构作computers的后置定语；第三句如果直译成“休闲将在气味电视机前面”不太贴切，尤其作为书面语不合适，考生可以加入“休闲”这一动作的发出者，将该句译成：人们将在气味电视机前休闲，或译成：休闲将在气味电视机前面进行；第四句中，考生需要注意时态为将来完成时。
+词汇：computers后的with结构是“带有、具有”的意思；in-built意为“内在的，内置的”，rather than表示否定，此结构翻译题中就已经数次出现。
+译文：儿童将与装有个性化芯片的玩具娃娃玩耍，具有个性内置的计算机将被视为工作伙伴而不是工具，人们将在气味电视机前休闲，届时数字化时代就要来到了。
+（43）Pearson has pieced together the work of hundreds of researchers around the world to produce a unique millennium technology calendar that gives the latest dates when we can expect hundreds of key breakthroughs and discoveries to take place.
+[解析] 本题考核的知识点是：多重复合句的译法。
+该句子是复杂的复合句，其结构可以分三层。第一层是句子主语是Pearson has pieced together the work of hundreds of researchers … to …，不定式引导目的状语，第二层在目的状语中，宾语calendar后有that引导的定语从句，第三层结构为that引导的定语从句中，宾语the latest dates后又有一个when引导的定语从句，注意不要误以为时状语从句。这样的三层复合结构形成了环环相套的定语从句链，关键在于考生需要把这个链条打断，也就是进行断句，考生可以在that处断句。
+词汇：piece together意为“汇集”；the latest dates意为“最近的日期”；key breakthroughs意为“重大突破”。
+译文：皮尔森汇集世界各地数百位研究人员的成果，编制了一个独特的新技术千年历，它列出了人们有望看到数百项重大突破和发现的最迟日期。
+（44）But that, Pearson points out, is only the start of man-machine integration: “It will be the beginning of the long process of integration that will ultimately lead to a fully electronic human before the end of the next century. ”
+[解析] 本题考核的知识点是：定语从句。
+Pearson points out属插入语成分，主句为主表结构that is the start，它实际上也是point out 的宾语内容。主语that 是代词，指前两句中提到的电脑与人之间连接的突破。引号中的是Pearson所说的话。it 指代紧跟它的integration（一体化）。that will ultimately...century是修饰the process of integration 的定语从句，由于定语太长，不适宜在中文中做前置定语，只能另起一句，用重复先行词的办法，或把定语从句译作并列句。
+译文：皮尔森指出，这个突破仅仅是人机一体化的开始：“它是人机一体化漫长之路的第一步，最终会使人们在下世纪末之前就研制出完全电子化的仿真人。”
+（45）And home appliances will also become so smart that controlling and operating them will result in the breakout of a new psychological disorder—kitchen rage. 
+[解析] 本题考核的知识点是：so … that结构、词义确定。
+这个句子的主干是home appliances will become so...that...，“so … that …”结构的意思是“如此……以至……”。that 后接的是结果状语从句，从句的主语是controlling and operating them；them指的是主语home appliances；从句的谓语是will result in，breakout of...是in的介词宾语。此处的破折号起解释作用，解释a new psychological disorder的内容。
+词汇：smart 意为“巧妙的，（人）聪明的”，但是在这里需要结合上下文理解为“智能化的”；breakout 一般译为“爆发”，但是与心理疾病或心理紊乱（a psychological disorder）搭配不合适，所以意译为“引起，引发”；同理kitchen rage亦不可直译为“厨房暴怒”，尽量与心理疾病的用词挂钩，译为“厨房狂躁症”。
+译文：家用电器将会变得如此智能化，以至于控制和操作它们会引发一种新的心理疾病——厨房狂躁症。
+
+三、参考译文
+在未来不到三十年的时间里，特列克星号的全息舱面就会成为现实。大脑神经系统和计算机之间的直接连接还会创造出全方位感受虚拟环境，使电影《全部回忆》中展示的虚拟假期成为可能。
+（41）届时，将会出现由机器人主持的电视谈话节目和装有污染监控器的汽车。一旦这些汽车排污超标（违规），监控器就会使其停驶。（42）儿童将与装有个性化芯片的玩具娃娃玩耍，具有个性内置的计算机将被视为工作伙伴而不是工具，人们将在气味电视机前休闲，届时数字化时代就要来到了。
+依BT的未来学家亚恩?皮尔森做出的预见，这些都属于新世纪头几十年发展计划之列，届时，超级计算机将急剧加速各个生活领域的发展。
+（43）皮尔森汇集世界各地数百位研究人员的成果，编制了一个独特的新技术千年历，它列出了人们有望看到数百项重大突破和发现的最迟日期。一些最大的进展将在医学领城，包括人预期寿命的延长和数十种人造器官，这些将在现在到2024年之间陆续实现。
+皮尔森还预言，在计算机与人的连接上会有一个重大突破。他说：“通过直接与我们的神经系统相连，计算机可以知道我们的感觉，并且，我们希望，它可以模仿感觉，这样，我们就能够发展全方位感知环境，就像电影《全部回忆》中的虚拟假期或特列克星号上的全息舱面。”（44）但皮尔森指出，这个突破仅仅是人机一体化的开始：“它是人机一体化漫长之路的第一步，最终会使人们在下世纪末之前就研制出完全电子化的仿真人。”
+通过研究，皮尔逊能够预言大多数突破的发生时间。然而，对于何时能够进行超光速旅行，何时人类克隆技术能够得以完善，何时可以进行时间旅行，却依然没有预见。但他的确预见技术进步引起的社会问题。比如，到2010年，住宅区附近监视器数量的剧增将引发问题；仿真机器人意味着人类可能无法区分同类朋友和这些机器人伙伴。（45）家用电器将会变得如此智能化，以至于控制和操作它们会引发一种新的心理疾病——厨房狂躁症。
+
+第四部分  写作试题解析
+
+
+一、审题谋篇
+本题命题形式为漫画加提纲式写作。
+提纲有三点要求：（1）描述画面的寓意，此处考生要注意symbolic meaning（比喻义）；(2)举一个具体的例子对主题加以论证；(3)对于如何献爱心给出你的建议。
+首先，审题时考生要抓住关键词。漫画加提纲式写作中，漫画中的字，特别是漫画的题目可谓是一字千金，千万不可放过。本题的漫画中出现“爱心是一盏灯，在越黑暗的地方越明亮”一句话，该句最突出的词是“爱心”，后半句话指出最需要爱心的环境——“黑暗中”，也就是说别人有困难的地方。因此漫画旨在提倡为需要帮助的人或地方献出爱心。
+其次，考生需要看清题目要求。要求指出文章应点明漫画所示内涵，并应举出具体事例，在此前提下提出自己对献爱心的建议。由此可见，文章中既要联系社会举例，又要给出自己的评论，所以命题所测试的中心内容为描述加议论。
+考生可以在坚守三段论基础上采用叙议结合的方法：第一段需围绕图画展开，将图画中所有信息描述清楚，点出漫画所示内涵。第二段要针对主题举具体的例子，由本题中心可知，举的例子应体现两要素：“爱心”和“需要”。第三段应在联系实际，突出中心的基础上，提出具体建议。
+
+二、参考范文
+	As can be seen from this vivid picture, like a light, love means much more to those who are in great difficulty than to those who live in comforts. Love, as illustrated in the picture，is just like the oil lamp，which certainly shines brighter in the dark. In other words，the darker the place is，the more precious the light will be. Love is somewhat the same: it is most needed by those who are in urgent need of help and considered most precious in most difficult situations.  Therefore, as people living in the modern society, we all should contribute our love to those needy people.
+	I can exemplify this conclusion with the Poverty Alleviation Project. It is known to all that the Chinese government has been calling for people participating in the project. Obviously, the expression of love can be best demonstrated by helping the poor in some backward regions.  Therefore, many college students choose to work in these regions upon graduation. It is in these places that they are most needed and their knowledge can be made best use of.  
+	The best way to show our love，in my opinion，is to follow the above mentioned example, giving love to the people during the hours of darkness. So when we see someone in difficulty or in distress，don’t hesitate to offer our hands. I believe the relationship between people will be more harmonious and our society will be a better place for us to live in. Let’s do as a famous saying goes：Ask not what others can do for you; ask what you can do for others. 
+
+三、范文点评
+文章结构：
+本文思路清晰，重点突出。首段开篇点题，接着，考生清晰地阐述了灯光的象征意义，段尾再次概括全文的主题，段落几个部分相互呼应。第二段中，考生举出一个既有深度（崇高性），又有广度（社会性）的例子——扶贫工程，并在段尾总结论证论点：要在别人困难的时候献爱心。第三段，作者提出具体建议，最后提出号召，并以流行语点睛。
+语言亮点：
+1. vivid：形象的，生动的。副词为vividly。
+2. in great difficulty和in comforts：两个介词结构意思相反，形成对仗。
+3. illustrate：（用插图或图画）说明，阐明。例如：The cartoon illustrates a profound principle in life.（这幅画揭示了一个深刻的人生哲理）
+4. the darker …the more precious…：这里使用的是the more … the more …结构，例如：The faster our country’s industry develops, the more efforts we should spare in protecting the environment.（工业发展越快，我们越应该花精力保护环境）。
+5. precious：珍贵的，宝贵的。如：Time is precious.（时间很宝贵）。
+6. contribute：对…做贡献，名词形式是contribution，如：make a contribution。
+7. exemplify：用例子说明，例证。例如：This story exemplifies what I just said.（这个故事正好说明了我刚才说的话）。类似用法有：illustrate, serve as an example。
+8. participate in：参加，类似的用法有：take part, join in, partake, get involved。
+9. demonstrate：表现，表明，证明。例如：This cartoon demonstrates a widespread phenomenon in society.（这幅画表现了社会上的一个普遍现象）。
+10. upon graduation：upon后加名词，可表示“…的时候”。如：Upon seeing their child make achievements, the parents are always as joyful as anything.（当看到自己的孩子取得成绩，父母总是高兴得不得了）
+11. It is…that（who）…：常引导结构强调句，it is后接句子中被强调的部分，它可以是状语、主语、宾语或宾与补足语，但不可以是表语、谓语动词和让步状语从句或对比状语从句。若强调的是人，用关系代词who，其它都用that。如：It is with the development of technology and population growth, the amount and range of materials used has increased at an alarming rate.（正是随着技术的发展和人口的增长，使用材料的数量和范围也都在以惊人的速度增长）。在写作中让句型保持多样化可以给文章增加不少色彩和可读性，强调句就是一个很好的选择，它使句子简洁而有力度。
+12. follow the above mentioned example：follow example表示“模仿…”；above mentioned的意思是“上面提及的”。
+13. offer our hands：“帮助”，类似的表达有：help out, extend a hand, lend a hand, give assistance。
+14. harmonious：“和睦的”，该词常形容family或relations。
+15. Ask not what others can do for you; ask what you can do for others：不要问别人能为你做什么，而问你能为别人做什么。该句来自于美国总统肯尼迪的名言：“Ask not what your nation can do for you; ask what you can do for your nation.”（不要问你的国家能为你做什么，而要问你能为你的国家做什么）。能够在作文中恰当地用上名言的考生恐怕不会太多，但是一旦用上就会引起阅卷老师的注意，得高分的可能性也就越大。因此考生平时可注意加强这方面的准备。如：The people who get on in this world are the people who get up and look for circumstances they want, and if they cannot find them, make them.（在这个世界上取得成功的人，都努力去寻找他们想要的机会，如果找不到时，他们就自己创造机会。——英国著名作家萧伯纳）
+
+四、写作误区
+篇章结构误区：
+首先，考生应当看清题目要求。一看到油灯，有的考生就按照固定思维，想当然地认为文章中心是赞扬“春蚕到死丝方尽，蜡炬成灰泪始干”的人民教师，结果写成了一篇教师颂。指导语中虽说明了“Everyone has his/her own understanding of love”，但图画上已经明确给出了主题：“爱心是一盏灯，在越黑暗的地方越明亮”，也就是说爱心在最需要它的地方显得最有价值。而有的考生花了大量笔墨赞美爱，包括爱情、友情、亲情等，论述“love is noblest feeling”，有的考生则联想到社会上的黑暗面，对缺乏“爱心”的人进行一番批判。以上都是由于审题不慎而造成的跑题。其次作文要求中规定要举一个例子说明问题。因此，考生所举的例子应当具体并且具有代表性。不可泛泛而谈，也不可虚构一些不切实际的例子。本文要想写得有深度，很大程度上由例子的深度和广度决定。因此，要想得高分，例子至关重要，应具有广阔的社会性，如“希望工程”、“长江抗洪”、“扶贫计划”、帮助下岗职工再就业等等。
+语言表达错误： 
+①词性错误：
+Our world will bright if everyone shows love to others.（Our world will become bright if everyone shows love to others.）
+②搭配不当：
+Although the light is weak, it plays a great effect which will make people more firmly than before.（Although the light is weak, it has a great effect which will make people more firm than before.）
+③代词不一致：	
+When every one devotes some love to the world, you will find the world is brighter and more beautiful.（When every one gives his share of love to the world, he will find the world is brighter and more beautiful.）
+④介词错误：
+I was greatly worried my future life.（I was greatly worried about my future life.）
+⑤非谓语结构错误：
+The best way show love is to help those need help in their life.（The best way to show love is to help those needing / who need help in their life.）
+⑥累赘：
+For those people who still live very poor lives, the help from other people can give them light and hope to improve their lives.（Poor people can get light and hope from others’ help to improve their lives.）
+⑦综合性错误：
+Even if the government gives more money to help children in poor areas, the rate of them are helped is still very low.（Even if the government appropriates more money to help children in poor areas, the number of those who can be helped is still very small. 
+

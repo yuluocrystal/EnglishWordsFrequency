@@ -1,0 +1,775 @@
+
+第一部分   英语知识运用试题解析
+
+
+一、文章总体分析
+文章主要探讨青少年犯罪的原因。一开始，文章从现有的理论出发，指出这些理论集中把个人或社会看作主要影响因素。接着文章又进一步谈到，现有理论只关注来自贫穷家庭的孩子，而忽视了来自富有家庭的孩子也犯罪这一事实。总之，这些理论都是不确定的，容易受到批评和攻击。
+从第三段开始，文章提出了新的见解：社会结构的变化可能间接地影响了青少年犯罪率。这其中包括经济结构和家庭结构的变化。除此之外，也有其他一些原因造成了青少年的犯罪行为。最后，文章就以上提到的众多原因作了一个总结：所有上述情形都有可能促使青少年犯罪，但它们与青少年犯罪是否存在直接的因果关系还没有确定。
+
+二、试题具体解析
+1.  [A] acting (on) 对……起作用 
+[B] relying (on) 依靠，指望    
+[C] centering (on) 以 ……为中心，围绕；集中于……  
+[D] commenting (on) 对……做出评论
+[答案] C
+[解析] 本题考核的知识点是：平行句子结构+分词短语辨析。
+本题要求考生判断空格处应填入什么分词与on搭配，构成分词短语。从结构上看，文章第一段由三个平行结构的长句子构成，其主要结构为Many theories concerning…focus on；Theories  1  on the individual suggest that；Theories focusing on the role of society suggest that。三个句子的主语都是theories，并都接有分词作定语。因此空格处填入的分词应和前一句中的concerning、后一句中的focusing on遥相呼应，都表示“关于…的理论”的含义，从文意方面看，第一句话总述到，关于（concerning）青少年犯罪原由的理论集中研究两个方面，即个人因素和社会因素。第二句强调个人因素的理论。第三句强调(focusing on)社会因素的理论。能表达出“集中强调”含义的分词短语只有centering on。
+例句补充：Alcohol acts on the brain.（酒精对大脑起作用）；She relies on her parents for tuition.（她的学费依赖于父母）；Her novels centered on the problems of adolescence.（她的小说以青少年问题为中心）；He commented on the bad weather here.（他对这里糟糕的天气发表评论）。
+2.   [A] before在……之前，表时间       [B] unless如果不，除非，表条件      
+[C] until直到……才，表时间        [D] because 因为，表因果
+[答案] D
+[解析] 本题考核的知识点是：逻辑关系。
+本题要求考生判断空格处应填入什么连词。首先，从结构上看，本题的空格在一个由that引导的宾语从句中：Theories suggest that…。该从句含有两个完整的分句：children engage in criminal behavior和they were not sufficiently penalized。考生关键要判断出这两个在空格前后的分句之间是什么逻辑关系。其次，根据文意，强调个人因素的理论把犯罪归结于个人原因，按照其观点，“儿童以前的不良行为没有及时地受到惩处”就是“儿童犯罪”的原因之一，两者之间是因果关系。选项中只有连词because表因果，因此是正确答案。
+3.  [A] interaction（with）与 ……的互相作用，互相影响   
+[B] assimilation（into）适应、同化、融入……
+[C] cooperation（with）与 ……的合作                
+[D] consultation（with）和 ……的商议
+[答案] A
+[解析] 本题考核的知识点是：名词短语辨析。
+本题要求考生判断空格处应填入什么名词，与with others搭配构成名词短语，来做through的介词宾语。首先排除assimilation，它不能与with搭配。空格所在的分句是they have learned criminal behavior through __ 3  with others，其中介词through表明“和其他人的……”是“孩子们学会犯罪”的途径或方式。考生接下来要判断选项中哪个名词短语可以表示出一种学会犯罪的途径或方式。显然，只有interaction with others符合，意为“和他人的相互影响，即受到坏人的影响（而学会了犯罪）”。注意cooperation with多为褒义，而且也不能说是“通过合作”来学会犯罪。
+词汇补充：interaction可表示“（人的）交往，影响”，其构词法是inter-（在…之间）+action（作用）；assimilation表示“（文化、风俗等的）同化”，词根为similar(相同的)，assimilate是动词形式；cooperation 意为“合作”，其构词法是co-（共同）+operation（操作）；consultation意为“咨询，磋商”，con-（共同的，相同的），consult为动词形式。
+4. [A] (in) return (for) 作为对……的报答，交换 
+[B] (in) reply (to) 作为对……的答复   
+[C] (in) reference (to) 关于          
+[D] (in) response (to) 作为对……的反应/答复
+[答案] D
+[解析] 本题考核的知识点是：固定搭配。
+本题要求考生判断选项中哪个能与in…to构成短语并符合文意。首先排除return，因为它只与介词for搭配，构成短语in return for；其次，空格所在长句意为“（强调社会角色的）理论认为，孩子们犯罪是他们自己没有成功地超越现有的社会经济地位的__4__”，根据句意，可先排除C选项in reference to，因为它表示“关于……，就……而言”，填入空格后明显语义明显不通；最后对in reply to和in response to进行比较，这两个短语区别的关键在其中心名词reply和response。reply指“回答，答复”，如：in reply to the letters（回信），而response多表示一种自发的反应。这个题目的正确选项应是in response to，因为“孩子们犯罪是对自己没有成功地超越现有的社会经济地位的一种自发的、本能的反应行为”。
+知识点补充：注意区别reply，response和answer都有“回答”的含义。
+Answer (n. v.)在这三个词中使用范围最广，既可以表示用语言来回答,也可表示用行动来回答。如：answer the telephone(接电话)；answer the door bell (去开门)。例句：In answer to these questions I just nodded.（在回答这些问题的过程中，我只是点点头。）
+response(动词为respond)多表示一种自发的反应。例句：In response to your inquiries, we regret to inform you that we cannot help you in this matter. （对于您的疑问，我们很遗憾地通知您我们对此爱莫能助。）
+reply (n. v.)和answer常常可以互相替换，也可以表示“以行动回答”，但有时与answer明显不同：如：answer a letter只表示“写回信”，但对来信提出的问题并不一定都作了答复，而reply a letter则表示回答了来信提出的一切细节。in reply to表示“回答，回复”。例句：They would be able to use similar methods in reply to our signals.（他们会有能力使用类似的方法来回答我们的信号。）
+5.  [A] or 或者，表并列         [B] but rather （非固定搭配）
+    [C] but 而是，表转折        [D] or else否则，要不然
+[答案] A
+[解析] 本题考核的知识点是：逻辑关系。
+本题要求考生判断空格前后两个部分之间的逻辑关系。从结构上看，in response to their failure和as a rejection of middle-class values都是commit crimes的状语，分别表示“作为对自己没有……的一种自发地、本能的反应”和“作为对中产阶级价值观的排斥”。从文意上看，社会影响理论强调造成孩子犯罪有两个方面的原因：一是社会经济方面；二是社会价值观方面。显然无论从结构还是意思上,这两者都是并列关系，需要一个表并列的连词来连接，所以or正确。
+6.  [A] considering考虑到，鉴于     [B] ignoring忽视  
+[C] highlighting突出            [D] discarding丢弃，抛弃
+[答案] B
+[解析] 本题考核的知识点是：分词结构作状语+动词词义辨析。
+虽然该空格要填入的是分词，但考生重点要辨析的是其中心动词是否符合文意。从结构上看，空格所在句子含有主句Most theories have focused on children和作状语的现在分词结构__6__ the fact，那么填入的分词和主句的谓语focused on都是主语most theories发出的动作，关键看这两个动作间是什么关系，仅从结构上无法判断，因为分词可以作时间、原因、方式等多种状语。这时需要从文意上判断，主句意为“大部分研究青少年犯罪的理论都关注来自贫穷家庭的孩子”，从句意为“……来自富有家庭的孩子也犯罪的事实”。从逻辑上讲，“只关注贫穷家庭的孩子的情况”会导致“不关注富裕家庭孩子的情况”的结果。两者之间是因果关系，分词结构在这里作的是结果状语。选项中能表达“不关注”含义的只有ignoring，它在这里做结果状语，译为“于是就忽视了”。注意discarding不能与fact搭配。
+知识点补充：分词作状语表示的动作是主句动作的一部分，一般用逗号同其他成分隔开。分词可以作时间、原因、方式、条件、结果、目的、让步等状语。例句：The old scientist died all of a sudden, leaving the project unfinished. (那位老科学家突然去世了，（于是）留下了没有完成的项目)。
+7.  [A] on涉及、关于	                  [B] in 以 ……方式          
+[C] for因为                           [D] with （表伴随）
+[答案] C
+[解析] 本题考核的知识点是：逻辑关系 + 介词用法辨析。
+考生首先要知道空格所在句子的主语the latter（后者）指前一句话中提到的“富有家庭的孩子”；其次要搞清楚空格前后部分The latter commit crimes和lack of adequate parental control之间的逻辑关系。由于上文一直在探讨青少年犯罪的原因，这里也不例外，谈论的是“富有家庭的孩子犯罪”是由于“缺少父母管教”，空格处需填入表因果关系的介词，for正确。
+8.  [A] immune（to）免疫的，不受影响的	   [B] resistant (to) 有抵抗力的     
+[C] sensitive（to）敏感的              [D] subject（to）易受……影响的
+[答案] D
+[解析] 本题考核的知识点是：形容词结构作表语。
+本题要求考生判断选项中哪个形容词可以与介词to搭配，并做空格所在句子中be动词的表语。首先，四个形容词都可以和to搭配，如：immune to persuasion（不能被说服的）；resistant to corrosion （抗腐蚀的）；sensitive to criticism（对批评敏感）；subject to colds （容易感冒的）。那么关键看哪个能符合句意。空格所在句子是All theories are tentative and are   8   to criticism。考生应注意句中由and连接的两个be动词后的表语都描述了主语“所有理论”的特点，因此是并列关系。把四个选项一一放入，只有subject to表达的“容易受到批评和攻击”与tentative表达的“试验性的、不确定的”在含义上近似，不确定就意味着容易遭受批评和攻击。
+9.  [A]	affect影响，感动，感染	   [B] reduce减少，缩小，还原        
+[C] check检查，制止，核对       [D] reflect反射，反映，表现
+[答案] A
+[解析] 本题考核的知识点是：上下文语义 + 动词词义辨析。
+空格处需填入一个谓语动词，其主语是Changes in the social structure，宾语是juvenile crime rates，同时受副词indirectly修饰。考生关键要判断主语“社会结构的变化”能间接地对宾语“青少年犯罪率”作什么动作。首先由于语意不通而排除check；其次，reflect也不合适，逻辑上讲，只能是“犯罪率（的变化）反映了社会结构的变迁”，而不能反过来说“社会结构的变化反映了犯罪率（的变化）”。再次，由于上下文中不涉及到犯罪率高低变化问题，可排除reduce。affect词义相符，表示“社会结构的变化间接地影响了少年犯罪率”。
+10. [A] point（to）指向，指明，让人注意到	      
+[B] lead（to）通向，导致，引起，造成         
+[C] come（to）谈及，到达，共计，恢复知觉 
+[D] amount（to）总计, 等于，等同，接近
+[答案] B
+[解析] 本题考核的知识点是：上下文语义 + 动词短语辨析。
+本题空格所在句子是一个that引导的定语从句，从句的主语是that的先行词changes in the economy，谓语是空格处填入的动词与to的搭配，宾语是fewer job opportunities。由于四个选项动词都可与to搭配，组成短语动词，如：point to the sharp death in road death (指明马路死亡事故剧增)；too much work lead to illness (劳累过度引起生病)；come to an understanding（达成谅解）；Her standards amounted to perfection（她简直要求事事十全十美）。因此考生关键要判断哪个短语动词符合句意。
+首先，从结构上看，这个短语动词  10   to应该反映主语“经济变化”对宾语“减少的工作机会”施加的一个动作。其次，上文谈到，社会结构变化间接影响犯罪率。逻辑词for example表明下面要具体论述是如何影响的。因此接下来谈的应该是“经济变化”造成的影响，即：年轻人工作机会减少，失业率上升。可见这个动作类似于“影响”，体现了一种因果关系。四个选项中能够表达因果关系的只有lead to，意为“经济变化导致了年轻人就业机会减少和失业率上升”。
+知识点补充：与to搭配的短语动词还包括：apply to （适合），bring to（苏醒，停下来），conform to（相称），fall to（开始），object to（反对），refer to（提及，指），set to（着手），take to（喜爱上，专心于），yield to（屈服于）。
+11. [A] in general通常, 一般说来    [B] on average平均起来
+[C] by contrast对比起来         [D] at length最后，终于；充分地，详细地
+[答案] A
+[解析] 本题考核的知识点是：句内语义 + 固定短语。
+由于空格所在长句的主干结构已经完整：changes in the economy（主语）make（谓语）employment（宾语）difficult to obtain（宾补），填入的短语显然只能做状语来修饰谓语。考生需要判断哪个短语填入后能使句子意思更加完整。根据句子的含义“（导致年轻人工作机会减少，失业率上升）的经济变化__11___使收入丰厚的工作很难被找到”，只有in general放入后符合逻辑，表示一种普遍规律：经济形势不好，一般就业就很困难。
+例句补充：Children in general are fond of candy.（孩子一般都喜欢糖果）；On average we receive 5 letters each day.（我们每天平均收到五封信）；Mr. Green is a taciturn person. By contrast, his brother was much more talkative.（格林先生是一个沉默寡言的人，相比之下，他兄弟要健谈的多）；At length they reached their destination.（他们最终到达了目的地）。
+12. [A] (in) case假使，如果，万一	               
+[B] (in) short简而言之，总而言之        
+[C] (in) turn轮流地，依次；又（对别人）做同样的事   
+[D] (in) essence本质上
+[答案] C
+[解析] 本题考核的知识点是：句内语义 + 固定搭配。
+和上题一样，这道题空格所在句子的主干结构也已经完整：discontent（主语）lead（谓语）more youths（宾语）into criminal behavior（宾补），填入的名词与in搭配后在句中作状语。由于四个选项都可以与in搭配，因此考生只需判断哪个短语填入后，能使句意表达更完整。句子大意是“（经济变化使年轻人就业变得困难），由此造成的不满情绪  12 _导致更多年轻人犯罪”，选项中只有in turn放入后符合逻辑，因为它可以表示一种连锁的因果联系，即“经济变化导致就业困难，就业困难导致不满，不满进而又导致犯罪”。 
+例句补充：Take warm clothes in case the weather is cold.（带上厚衣服以防天气变冷）；In short, society must be reorganized. （总之，社会必须重组）；He found that Mary had told Richard’s sister, and she in turn had told Richard. (他发现玛丽告诉了理查德的姐姐，然后她又告诉了理查德)；He is in essence an honest person.（他本质上是个诚实的人）
+13. [A] survived经历...后依然活着，幸免于      [B] noticed注意到       
+[C] undertaken承担，许诺                   [D] experienced经历，体验
+[答案] D
+[解析] 本题考核的知识点是：上下文语意 + 动宾搭配。
+本题要求考生判断哪个动词可以与changes构成动宾搭配，并符合文意。若只局限于所在句子的内部语意，答案可以不只一个。因此考生要根据上下文来确定最佳答案。上文从社会结构变化谈到经济变化再谈到家庭变化；下文则提到，越来越多的家庭变成单亲或双职工家庭。这些都在暗示家庭结构有了变化。四个选项构成的动宾搭配分别表示“幸免于变化”、“注意到变化”、“承担变化”和“经历变化”。显然，experienced最恰当地表达了“近几年家庭也经历着变化”的含义。
+知识点补充：除了这个题目外，2003年英语知识第2题也考到了与change构成动宾搭配的动词。考生需注意，当change作“变化”含义时，常与之搭配的动词有：make, have, take, bring about, experience, accommodate (to), adapted to, adjust to等。
+14. [A]	contrarily相反地，表对比         [B] consequently所以，因此，表因果  
+[C] similarly同样地, 类似于，表比较    [D] simultaneously同时地，表比较
+[答案] B
+[解析] 本题考核的知识点是：逻辑关系。
+考生注意分号和逗号之间一般要填入一个表达句子间逻辑关系的词，因此本题要求考生判断空格前后“单亲和双职工家庭增多”和“孩子们在家里得到的监护减少”之间的逻辑关系。根据常识，在单亲和双职工家庭中，父母工作相对比较繁忙，因此孩子受到的监护就会减少。可见，这里需要一个表因果关系的逻辑副词，选项中只有consequently符合要求。
+15. [A] than兼有连词和代词的性质，引导比较成分 	  
+[B] that 关系代词，不能引导比较成分            
+[C] which 关系代词，不能引导比较成分 
+[D] as 关系代词，不能单独引导比较成分
+[答案] A
+[解析] 本题考核的知识点是：从句中的关系代词。
+空格的前文是一个主干结构完整的句子：children are likely to have less supervision at home，空格的后文是：was common in the traditional family。显然这里包含了一个从句，由空格处的词连接。解题的关键词是less，它只能和than搭配构成比较级。句子的含义是：（现在的）孩子们在家里得到的父母的监护，要比（than）在传统的家庭里普遍的（监护）少（less）。考生需要注意than在这里的用法。than在带有比较级的句子中可以做关系代词，兼有连词和代词的性质，相当于than what，比如这句话就相当于children have less supervision than (what) was common in the traditional family。例句：The boy has eaten more food than is good for his health就相当于…eaten more food than （what） is good for his health。（那个孩子吃得太多，多得对身体都不好了）。
+再看三个干扰项。that比较容易排除，它常在关系从句中做关系代词，代替紧跟着的先行词，可以是名词或代词。这个题目难在其他两个干扰项：which和as似乎可以放入空格中，做关系代词，代替前面整个句子，意为“这种情况在传统家庭中很普遍”。但考生要注意：首先，which和as的这种用法都在非限定性从句中，即用逗号隔开，例句：He took over the government, which was unlawful. （他接管了政府，这一行为实际是非法的），She usually takes a nap after lunch, as is her habit. （午饭后她一般午睡，这已经成了习惯）；其次，填入which和as，句子的含义就成了：孩子们在家里得到的监护越来越少的现象在传统家庭中非常普遍，它不符合逻辑。因为文章谈到造成孩子无人看管，正是由于家庭结构的变化，即传统的家庭变成单亲和双职工家庭所造成的。显然它们不符合上下文意。
+16. [A] system系统，体系，体制	     [B] structure结构，构造       
+[C] concept观念，概念             [D] heritage遗产，传统
+[答案] B 
+[解析] 本题考核的知识点是：上下文语意 + 名词词义辨析。
+本题要求考生判断family后接什么中心名词。此题有几个线索，第一个线索在上一题中也提到，即空格所在句子中的比较级。考生从中可分析出：the traditional family  16  与families consist of one-parent households or two working parents是相对照的，后者为现代家庭的组成方式即结构，那么前者空格处也应相应地填入表“结构”含义的词。第二个线索离得比较远，第三段首句提到changes in the social structure，接下来依次提到changes in the economy 和Families have also experienced changes，因此后面两个变化是第一个变化的分述，即从社会结构谈到经济结构和家庭结构，而且后面提到的“单亲和双职工家庭”等也确实是在谈论家庭结构问题。因此空格处应填入这个不只一次出现的关键词structure。
+17. [A] assessable可估价的，容易接近、得到和使用的  
+[B] identifiable可以确认的  
+[C] negligible可以忽略的，不予重视的    
+[D] incredible难以置信的，惊人的
+[答案] B
+[解析] 本题考核的知识点是：形容词用法辨析。
+空格的前文是lack of parental supervision is an influence（影响，原因）on juvenile crime rates，下文是Other __17_   causes of offensive acts include frustration or failure in school…。因此填入的形容词首先可以修饰causes，其次，根据句意，“其他……的原因”言外之意就是前面提到的是“一个……的原因”，也就是说这个形容词是上下文提到的所有原因的共同特点。上文提到的原因是“缺乏管教”，下文提到的原因是“在学校里形成的挫败感或学习不及格、酗酒、毒品、虐待儿童等等”。再分析四个选项，只有identifiable是所有原因的共同特点，即：这些原因都是人们已经有所了解的。
+知识点补充：选项中几个词的含义可通过几个例句来体会：A telephone is put where it will be accessible. (把电话放到谁都能拿到的地方)；The police found an unidentifiable woman buried in the back yard. (警察发现后院埋了一具不明身份的女尸)；In buying a suit, a difference of ten cents in prices is negligible.（买一套衣服价钱只差一角钱是无所谓的）；He was dressed with incredible speed. (他以惊人的速度穿好了衣服)。
+18. [A] expense费用，代价          [B] restriction限制，约束   
+[C] allocation分配，安置       [D] availability 可获得性，有效性，实用性
+[答案] D 	
+[解析] 本题考核的知识点是：上下文语意+ 名词词义辨析。
+本题要求考生在空格处填入一个中心名词，它可以同时被increased 和drugs and alcohol修饰，描述造成青少年犯罪的一种原因。首先可排除allocation，因为它不能被increased修饰；其次，从逻辑上讲，“毒品和酒精的价钱（expense）提高”、“对毒品和酒精的限制（restriction）增多”都不应该是造成犯罪的原因，反而有可能减少犯罪。只有“（青少年）越来越容易接触（availability）毒品和酒精”才可能引起犯罪。
+例句补充：Redecorating the house will be a considerable expense.（重新装饰房屋将是一项很大的花费）；There is a restriction against smoking in schools.（学校禁止吸烟）；Sugar is under allocation during war time.（战争时期糖是配给的）；The availability of clean water resource is becoming more and more difficult. (找到纯净的水源变得越来越难)。
+19. [A] incidence（of）发生(率)              [B] awareness（of）意识，知道
+[C] exposure（to）暴露，揭露             [D] popularity普及，流行，出名
+[答案] A 	
+[解析] 本题考核的知识点是：上下文语义 + 名词词义辨析。
+和上题一样，这个空格填入的中心名词同时被growing和child abuse and child neglect修饰，描述造成青少年犯罪的另一种原因。由于四个选项都可以被growing修饰，解题的关键只能是根据逻辑语意做出判断。首先“儿童受虐待和得不到关怀的日益普及（popularity）”明显不可能，其次“不断意识（awareness）到儿童受虐待和得不到关怀”和“不断暴露（exposure）儿童受虐待和得不到关怀”不但不是犯罪发生的原因，反而有利于减少犯罪；只有“儿童受虐待和得不到关怀事件（的发生）（incidence）日益增多”才符合文意。
+例句补充：There is a high incidence of malaria in the tropics.（在热带地区疟疾发病率很高）；A good parliamentarian must have an awareness of what the people at home want.（一个好的国会议员必须知道国内的人民想要什么）；Exposure of the body to strong sunlight may be harmful.（让身体暴露在强烈的阳光下会可能是有害的）；The comedian enjoyed great popularity during the 30’s and 40’s.（这个喜剧演员在三、四十年代很受人欢迎）。
+20. [A] provided倘若，（表条件）        
+[B] since因为, 既然，（表因果或让步）
+    [C] although虽然，尽管，（表转折或让步） 
+[D] supposing万一，假使，（表条件）
+[答案] C 	
+[解析] 本题考核的知识点是：逻辑关系。
+空格前后是两个完整的分句：All these conditions tend to increase the probability和a direct causal relationship has not yet been established，考生需要判断这两句话之间的逻辑关系。前一句话谈到，所有这些情形都提高了青少年犯罪的可能性；后一句谈到，直接的因果关系还没有确定。前面谈已确定的（identifiable）原因，后面谈还不确定。两者间显然是转折关系。表转折的连词只有although。
+例句补充：The factory will pay the bonus provided the job is completed on time.（如果工作及时完成的话，工厂将会发放奖金）；Since you're not interested, I won't tell you about it.（既然你不感兴趣，那我就不告诉你了）；Supposing it rains what shall you do? （假如下雨，你会怎么办呢）。
+
+三、全文翻译
+许多研究青少年犯罪(即低龄人群犯罪)的理论要么强调个人要么强调社会是导致犯罪的主要因素。强调个人因素的理论认为，儿童从事犯罪活动，是因为他们以前的不良行为没有及时受到惩处，或者由于他们受别人影响而学会了犯罪。强调社会因素的理论认为，儿童犯罪，是因为他们未能如愿地提高自己的社会经济地位，或者是因为排斥中产阶级的价值观。
+大部分研究青少年犯罪的理论都集中在来自贫困家庭的儿童身上，而忽略了出身富裕家庭的儿童也会犯罪这一事实。这些儿童可能由于缺乏父母管教而犯罪。当然，所有这些理论都不是定论，并且经常遭到批判。
+社会结构的变化可能会间接地影响青少年犯罪率。比如，某些经济变化导致了年轻人就业机会减少和失业率上升，通常在这种情况下，想找到薪水丰厚的工作就愈加困难。由此产生的不满反过来可能导致更多的年轻人犯罪。
+这些年来家庭也在经历着变化。单亲家庭和双职工家庭越来越多。这样，儿童在家里所受到的监管就可能比过去传统家庭要少。人们认为缺乏父母管教是影响青少年犯罪率的因素之一。其他已知的原因还包括：青少年在学校里形成的挫败感或学习不及格，年轻人越来越容易接触毒品和酒精，以及儿童受虐待和得不到关怀的事件日益增多。所有上述情况都会增加青少年犯罪的可能性，虽然其中的直接因果关系还没有被证实。
+第二部分  阅读理解试题解析
+A部分
+第一篇
+
+一、文章结构总体分析
+文章介绍了一种能够帮助人们迅速找到工作的搜索代理工具。全文从一个使用搜索代理而找到工作的实例入手，对这种新事物的优缺点进行了全面分析，并引用了当事人和专家的观点。
+第一段：律师雷德曼通过“个人搜索代理”顺利地找到了工作。
+第二、三、四段：这种搜索代理的优点是避免了人工重复性地访问数据库，但缺点是当求职者缩小搜索条件时会失去很多机会。并且这种机械的程序缺少人性化的求职建议。因此最佳策略是把它当作一种提示性服务。比如一些网站在“代理”的程序设计上就考虑到让它吸引求职者回访网站。
+第五段：“搜索代理”即使是对那些不找工作的人也有用。
+
+二、试题具体解析 
+21.How did Redmon find his job?               21. 雷德曼是怎样找到工作的？
+[A] By searching openings in a job database.  [A] 通过在职业资料库中寻找空缺职位。
+[B] By posting a matching position in a       [B] 通过在资料库里张贴相匹配的职位。
+ database.
+[C] By using a special service of a database.[C] 通过使用数据库的一种特殊服务。
+[D] By E-mailing his resume to a database.   [D] 通过将个人简历电邮到数据库。
+[答案] C
+[解析] 本题考核的知识点是：事实细节题。
+题干中的关键信息是人名“Redmon”，文章第一段就是围绕他的个人经历而展开论述的。四个选项都提到“database”，从文章首句可知，它指的是网上的一个求职资料库。关键看雷德曼在这个资料库里做了些什么而找到工作的。文章提到，雷德曼使用资料库的“个人搜索代理”，敲入了几个关键词，几周后就得到了空缺职位的通知。接着他把个人简历用电子邮件寄给了雇主，从而获得了一份工作。C选项中的“特殊服务”指的就是网站上提供的“个人搜索代理”这种服务，虽然比较泛，但符合文意。
+A选项中的“寻找空缺职位”和B选项中的“张贴相匹配的职位”都是“个人搜索代理”代替当事人做的事情。文中只提到雷德曼将个人简历电邮给雇主，因此D选项也不是他找到工作的方式。
+22. Which of the following can be a      22. 下面哪一个可能是搜索代理的缺点？
+ disadvantage 
+ of search agents?
+[A] Lake of counseling.                     [A] 缺少建议。
+[B] Limited number of visits.               [B] 限制访问次数。    
+[C] Lower efficiency.                       [C] 效率低。 
+[D] Fewer successful matches.        	    [D] 匹配成功几率低。 
+[答案] A
+  [解析] 本题考核的知识点是：事实细节题。  
+文章第二段一、二句谈到搜索代理的优点是：避免了人工重复性地访问数据库。连词But后，文章转而提到专家们看到了它的缺点：每缩小一次搜索条件，对求职或应聘者来说就意味着丧失了一次机会。但这个缺点在四个选项中都没有提到。搜索代理的另外一个缺点在文章中比较隐蔽，它是在第三段提到的：There’s no career counseling implicit in all of this，代词this回指前面的job searching programs，也就是搜索代理。
+23. The expression “tip service” (Line 4,   23. “tip service”（第三段第四行）
+Paragraph 3) most probably means     .           最可能的含义是     。
+[A] advisory                                   [A] 忠告
+[B] compensation                               [B] 补贴    
+[C] interaction 	                       [C] 互动
+[D] reminder                                   [D] 提示
+ 
+[答案] D  
+[解析] 本题考核的知识点是：词义题。
+直接定位到文章第三段，理解这个新词汇要联系其上下文。上文谈到搜索代理都不会有隐含的求职建议。instead转折之后，下文对这个词汇进行了解释：when you get E-mail, consider it a reminder to check the database again（最佳策略是把“代理”当作一种提示性服务，来及时跟踪一个特定数据库里的工作信息），tip service与reminder前后呼应。
+24. Why does CareerSite’s agent offer 24. 为什么求职网的代理每次只提供给求职者
+each job hunter only three job         三项工作选择？
+options? 
+[A] To focus on better job matches.        [A] 为了集中在更好的相匹配的工作上。
+[B] To attract more returning visits.      [B] 为了吸引更多人回访。
+[C] To reserve space for more messages.    [C] 为了保存更多的信息空间。
+[D] To increase the rate of success.       [D] 为了提高成功的几率。
+[答案] B
+[解析] 本题考核的知识点是：写作意图题。
+第四段第二句中的for example非常重要。考生应注意：在阅读中，举例必然是为了说明一个论点，这个论点可以在举例之前或之后指出。那么第四段举求职网的例子就是为了说明首句：Some sites design their agents to tempt job hunters to return（一些网站在“代理”的程序设计上考虑让它诱使求职者回访网站）。接下来的内容具体说明了是怎样诱使的：求职者为了查找数据库中更多的匹配项，不得不回访这个网站。
+25. Which of the following is true          25. 根据文章内容，下面哪一个是正确
+    according to the text?                       的说法？
+[A] Personal search agents are indisp-     [A] 个人搜索代理对于找工作的人来说是
+ ensable to job-hunters.                    必不可少的。
+[B] Some sites keep E-mailing job seekers  [B] 一些网站不断地给求职者发电子邮
+to trace their demands.                      件，以便发现它们的需求。
+[C] Personal search agents are also        [C] 个人搜索代理对于那些已经找到工
+ helpful to those already employed.         作的人来说也有用处。
+[D] Some agents stop sending information   [D] 一旦人们找到工作，一些代理就
+to people once they are employed.         停止给他们发送信息。
+ 
+ [答案] C
+[解析] 本题考核的知识点是：事实细节题。
+这种题型有一定难度，它要求考生对全文有综合性的理解。因此在解题时经常是排除和定位法相结合。第五段首句提到：即使那些不找工作的人也会觉得“搜索代理”有用。因此C选项正确。文章提出了搜索代理的缺点，指出最好只是把它当作一种提示性服务，因此它不是必不可少的，排除A选项；文章只在第五段首句提到“一些人利用搜索代理（发来的电子邮件）密切关注职业市场对于自己行业的需求情况”，排除B选项；从雷德曼的经历可以知道，找到工作后还是可以继续使用搜索代理服务的，因此D选项也不对。
+
+三、试题命制分析
+考点设计点评：
+文章从内容上讲，主要关于“搜索代理”这种网上谋职帮手，因此第一个考点就围绕文章这一主题，题型主要以事实细节题为主，如原考题第2和第5题。其次，从论证手段讲，文章比较明显的特点是使用了例证法，如第一段雷德曼的例子（原考题第1题）、第三段CareerSite’s 的例子（原考题第4题）。论证手段的另一个考点涉及引证，原题没有涉及，可见补充考点第1题。全篇文章讲述了“搜索代理”这一新鲜事物，自然还可以考查考生对作者态度观点的把握，参见补充考点第2题。从语言角度讲，该篇文章语言较新，词义句意作为考点非常合适，除了原考题第3题之外，还有几个语言点可以考查，如补充考点第3、4题。
+补充考点：
+（1） From the third paragraph, we can infer that      .
+[A] job-searching agents are not reliable
+[B] broadening a narrow concept is the first step while using a search agent
+[C] career counseling agents always have hidden opportunities
+[D] one should choose a job from a list of offers
+（2） Which of the following word best describes the author’s attitude towards career searching agents      .
+[A] negative                            [B] positive
+[C] neutral                             [D] undetectable
+（3） What does Redmon mean when he says “I struck gold” (paragraph 1)?
+[A] Soon he will become a rich man.    [B] He has found a treasure.
+[C] He is greatly pleased.               [D] He has found a good opportunity.
+（4） By saying “we see a sharp increase in our traffic,” (paragraph 4) Seth Peets most probably implies that    .
+[A] their strategy is very successful        [B] the road becomes very crowded
+[C] their message is very attractive       [D] many people like to travel
+参考答案：（1）C       （2）B          （3）D          （4）A
+
+四、文章长难句分析与佳句赏析
+长难句分析：
+①It’s an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database.
+该强调句的主干是：It is（an interactive feature ）that（lets… then E-mails…），强调主语an interactive feature。That后面连接的是两个谓语动词结构：let sb. do sth.和名词活用为动词的E-mails。Such as…结构举例说明job criteria，when引导的时间状语从句修饰整个句子。
+②Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-rnail, consider it a reminder to check the database again. 
+该句子分号前后是两个分句，后一分句对前一分句作进一步解释。前一分句的主干是：the best strategy is to use the agent，as…介词短语结构意为“当做……”。不定式结构“to keep…”表示目的。
+③When CareerSite’s agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs—those it considers the best matches. 
+for example点明了这个句子和前一句之间的关系：举例说明前面一句话。该句子的主干是：it includes three potential jobs。When引导时间状语从句。破折号后是potential jobs的同位语，中心词是those，后面接定语从句。句之中的it回指CareerSite’s agent。
+④Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. 
+该句子的主干是Some use them，两个并列的不定式结构to keep…or gather…在句子中做目的状语。在第二个目的状语中又含有一个表目的的不定式短语to arm…。
+佳句赏析：
+Redmon maintains his agent at CareerBuilder. “You always keep your eyes open,” he says. Working with a personal search agent means having another set of eyes looking out for you. 
+在这组句子中使用了keep one’s eyes open这个习惯表达。由于该短语非常形象化，作者又再次使用了eyes这个形象having another set of eyes looking out for you，来表达人们应该时刻关注新的信息。
+
+五、核心词汇与超纲词汇
+（1）stumbled（n./v.）绊倒，使绊跌 ~ across/on/upon偶然找到，无意中发现
+（2）notification（n./v.）通知（书），布告, 告示；notify（v.）（用正式信件）通知
+（3）strike（v.）邂逅，发现 ~ gold 发现金子
+（4）criteria（n.）criterion的复数形式，(批评判断的)标准,  规范
+（5）counseling（n.）（对个人、社会以及心理等问题的）咨询服务 counsel （v.）提出建议，劝告；推荐，介绍
+（6）abreast （adv.）并肩，并列；最新，赶得上 keeping abreast of the latest developments.及时了解最新动态
+从这篇文章可以看出，考生不能只局限于掌握基本的大纲词汇，平时也应该有意识地搜集随着新事物、新现象而出现的新词汇、专业词汇。
+计算机专业词汇：
+ 
+（1）database（n.）数据库，资料库
+（2）search agent 搜索代理
+（3）interactive 交互性
+（4）key in 键入
+（5）post 粘贴（帖子）
+（6）keywords 关键词
+（7）repeated visits 回访
+（8）matches 匹配项
+ 
+求职专业词汇：
+ 
+（1）title称号，头衔
+（2）opening有空缺的工作或职位
+（3）in-house counsel机构内部的律师
+（4）raise 加薪
+ 
+（5）negotiate谈判；协商；商谈 ~ with someone about something
+（6）compensation赔偿（金）［美］薪水，工资（for）
+其他专业词汇：
+（1）intellectual property 知识产权
+
+六、全文翻译
+去年末，甘特?雷德曼律师在找工作时偶然发现网上有一个被称作“职业建筑师”的求职资料库。他找来找去，没有找到需要的工作，但却被该网站上的“个人搜索代理”所吸引。其特点是互动性，这样访问者就可敲入一些和工作标准相关的关键词，如：地点、职位和薪水等等，然后当资料库里出现了相匹配的职位时，“代理”就会把这些信息用电子邮件发出去。（长难句①）雷德曼选择了关键词“法律”、“知识产权”和“华盛顿”。过了三个星期后，雷德曼接到了第一个职位空缺的通知。他说，“我挖到金子了”。他把个人简历用电子邮件寄给了雇主，接着就得到了一份驻公司律师的职务。
+由于网上的求职招聘网站数不胜数，因此寻找可能的空缺职位变得费时又费力。而“搜索代理”避免了人工重复性地访问数据库。不过，虽然有一个“搜索代理”已成功地为雷德曼找到了工作，就业专家们还是指出了“搜索代理”存在的问题。比如缩小搜索条件很可能对求职或应聘者不利。一位专家说，“你每回答一个问题就丧失了一次机会”。
+寻找任何职业，都得从一个窄的概念出发，即你想要干什么，然后再去扩大它。“而这是任何程序所无法做到的”，另一位专家说，“程序都不会有隐含的求职建议”。实际上，最佳策略是把“代理”当作一种提示性服务，来及时跟踪一个特定数据库里的工作信息。当你收到电子邮件时，把它看作是提醒你该去查一查资料库的新信息了。（长难句②）一本求职指南的作者这样说到，“我不愿意依赖‘代理’，它只是在数据库里逐一寻找可能让我感兴趣的新东西”。
+一些网站在“代理”的程序设计上考虑让它诱使求职者回访网站。比如，当这些求职网站的“代理”向注册用户发送信息时，只提供三种它认为最匹配的工作。（长难句③）而实际上，数据库里可能还有更多的匹配项，于是，求职者只得再次访问这个网站来寻找。事实上，求职者真的这样做。求职网销售副总裁塞思?皮茨说，“在我们发送新信息的当天网站访问量就会急剧上升”。
+即使那些不找工作的人也会觉得“搜索代理”有用。一些人利用搜索代理密切关注职业市场对于自己行业的需求情况，或者收集有关薪水的信息以便和老板协商加薪时有所准备。（长难句④）雷德曼虽然已经愉快地就业了，但他依然保持着与“职业建筑师”网“代理”的联系。他说，“你要时刻睁大眼睛，关注这方面的信息”。使用“个人搜索代理”就意味着多了一双眼睛在为你观察留心。（佳句）
+
+第二篇
+
+一、文章结构总体分析
+文章介绍了社会上存在的一种隐蔽的不平等现象：按字母排序。作者采用了下定义、举例子、假设等多种写作手法，详细透彻地分析了一个我们也许从未意识到的社会问题。
+第一段：给“字母排序现象”下定义：对那些姓氏字母在字母表中排得靠后的人的歧视。
+第二、三段：举例说明社会上存在的字母排序现象。
+第四段：提出一种理论来解释字母排序现象的起源。
+第五段：进一步举例说明字母排序现象在人类生活中普遍存在。
+
+二、试题具体解析 
+26. What does the author intend to illustrate   26. 作者借用“AAAA汽车”和“Zodiac汽
+    with AAAA cars and Zodiac cars?                  车”的例子来说明什么?
+[A] A kind of overlooked inequality.            [A] 一种被人们忽视的不平等现象。
+[B] A type of conspicuous bias.                 [B] 一种显而易见的偏见。
+[C] A type of personal prejudice.               [C] 一种个人偏见。
+[D] A kind of brand discrimination.             [D] 一种品牌上的歧视。
+ 
+[答案] A
+[解析] 本题考核的知识点是：写作意图题。
+根据题干中给出的信息“AAAA cars” 和“Zodiac cars”迅速定位到文章第二段首句：当乘客翻电话薄叫出租车时，一家名为“AAAA汽车”的出租车公司远比另一家名为“Zodiac汽车”的公司占有优势。注意作者举例一般是为了说明一个问题，并且这个问题会在其前后阐释出来。该例子下文是另外一个例子；上文即第一段则是对字母排序，一种隐蔽的不公平现象的定义。因此作者举出这个例子的目的就是说明第一段的主题：存在一种字母排序的不公平现象。原文中的insidious和unaware对应题干中的overlooked，discrimination对应inequality。B选项错在conspicuous，C选项错在personal prejudice，本文讨论的是社会问题。D选项很有迷惑性，但作者的写作意图绝不是只限于讨论品牌，而是字母排序的社会现象。
+ 
+27. What can we infer from the first three      27. 从文章前三段，我们可以推知 
+    Paragraphs?                                   什么?
+[A] In both East and West, names are essen-     [A] 在东西方，名字都是成功的关键。
+    tial to success.
+[B] The alphabet is to blame for the failure  [B] 一些人失败的原因是其姓氏字母
+of Zoe Zysman.                                在字母表中排后。
+[C] Customers often pay a lot of attention to [C] 顾客总是很注意公司的名字。
+    companies’names.
+[D] Some form of discrimination is too subtle  [D] 某种歧视太微妙以至很难被察觉。
+     to recognize. 
+[答案] D
+[解析] 本题考核的知识点是：推理引申题。
+综合文章前三段的内容。第一段提出现象：存在一种隐蔽的不公平待遇，叫字母排序。第二段举例说明：“AAAA汽车”比“Zodiac汽车”有优势；名为Adam或 Abbott的人在生活中要比名为Zoe或Zysman的人有优势；大部分杰出人物的姓氏字母都排在了A到K之间。第三段进一步举例说明字母排序现象在名人身上的体现，如：美国的总统和副总统、七个富裕国的政府首脑、世界三大重要银行家、最富裕的五个人，他们的姓氏字母都排在前面。
+文章并没有拿东西方做比较，而只谈英语名字的字母排序现象，因此可排除A选项；文章前三段的举例中只提到很多杰出人物的姓氏字母都在前面，无法推出B选项；C选项有迷惑性，从汽车出租公司的例子确实可以推出，顾客注意到了出租车公司的名字。但并不能由此就推出顾客总是很注意公司的名字，often一词用得太绝对。从三段整体来看，从insidious form 和Less well known等处可以推出D选项为最佳答案。
+28. The 4th paragraph suggests that    .    28. 文章第四段暗示        。
+[A] questions are often put to the more    [A] 聪明的学生经常被提问  
+    intelligent students.    
+[B] alphabetically disadvantaged students  [B] 按字母排序处于劣势的学生经常逃课
+    often escape from class
+[C] teachers should pay attention to all   [C] 老师应该关注所有的学生
+     of their students.
+[D] students should be seated according [D] 应该根据学生视力的好坏来给                              to their eyesight.                       他们排座位
+[答案] C
+[解析] 本题考核的知识点是：推理引申题。
+第四段开始作者探讨了造成字母排序现象的原因：幼儿园的老师把学生按姓氏的字母顺序从前往后排座位，因此一些近视的、姓氏字母排后的学生很少被老师提问，结果是这些孩子能力差，公开表达自己时缺乏信心。
+文章暗示的是老师经常向坐在前面的学生，即姓氏字母顺序靠前的学生提问，而不是A选项，选项B、D无从推起，只有选项C比较符合逻辑，因为文章一开始就谈到按字母排序是一种潜在的不公平现象。当作者提到这种做法导致儿童受教育的机会不平等时，当然是在暗示老师们该关注一下那些在字母排序中处于劣势的学生了。
+29．What does the author mean by “most 29.“most people are literally having a ZZZ”
+ people are literally having a ZZZ”      在文中的含义是什么（第五段第二至三行）?
+   (Line 2-3,Paragraph 5)?                                  
+[A] They are getting impatient.         [A] 他们变得不耐烦了。
+[B] They are noisily dozing off.        [B] 他们大声地打起鼾来。   
+[C] They are feeling humiliated.        [C] 他们觉得很羞耻。
+[D] They are busy with word puzzles.    [D] 他们忙于做字迷游戏。
+ 
+[答案] B
+[解析] 本题考核的知识点是：解读文化代码题。
+直接定位到第五段第二句：在大学毕业典礼上，姓氏字母排前的学生先领到毕业证，而轮到那些姓氏字母靠后的人时，大多数参加者差不多都在……了。理解的关键是ZZZ，它是拟声词，表示打鼾声。它经常作为符号出现在一些漫画中，比如：瑞星杀毒软件中就有只狮子发出“ZZZZ”声的画面，表示它在酣睡。这个题目是考研阅读中首次考查学生透过语言符号代码，解读文化的能力。它也在提示考生平日学习中要多了解英语文化背景知识。
+ 
+ 
+
+
+30. Which of the following is true according to   30. 下面哪一个是符合文章的说法？
+    the text?
+[A] People with surnames beginning with        [A] 姓氏字母为N到Z的人经常受到
+    N to Z are often ill-treated.                  不公正待遇。
+[B] VIPs in the Western world gain a            [B] 西方世界里的重要人物从字母排
+great deal from alphabetism.                    序中获得很多好处。
+[C] The campaign to eliminate alphabetism      [C] 消除字母排序的运动仍然任
+    still has a long way to go.                    重而道远。
+[D] Putting things alphabetically may lead to   [D] 把事物按字母排序可能导致无意
+     unintentional bias.                           识的偏见。
+[答案] D
+[解析] 本题考核的知识点是：事实细节题。
+纵观全文，文章首段定义字母排序为一种隐蔽的不公平待遇。第二、三段举例说明杰出人物多为姓氏字母排序靠前的人。第四段直接指出，字母排序造成了儿童受教育机会的不平等。第五段又列举了生活中更多其他的不平等现象。由此可见，D选项符合文意，是全文要表达的信息。
+文章只是泛泛提到姓氏字母排序靠后的人处于劣势，并没有具体到从哪个字母开始，A选项不正确。在这篇文章里，作者只停留在提出一种不公平的现象，并举例、分析其原因，而没有涉及消除它是否很困难。因此C选项错误。文章中虽然提到，很多杰出人物在姓氏字母排序中靠前，但这只是说明字母排序靠前的人可能更容易成功，并且这种现象是隐蔽而不易被察觉的。B选项虽然似是而非，但在文章中找不到充分论据。
+
+三、试题命制分析
+考点设计点评：
+文章第一大考点就是对于例证法的考查，包括第二段（原考题第1题）、第三段（参见补充考点第1题）、第四段和第五段中提到的Zysman（补充考点第2题）。文章前三段列举了一些现象作为铺垫，原考题中第2题针对的就是这三段的作用，实际是对罗列事例的考查。第四段开始部分作者提出一种解释理论，那么对此作者是否认同，这又是一个考点（补充考点第3题）。此外，还可以考察一些语言点（原考题中的第4题）以及对文章整体意思的把握（原考题中的第3题和第5题）
+补充考点：
+（1） From the third paragraph it may be inferred that       .
+[A] alphabetically advantaged ones are always powerful people
+[B] alphabetically advantaged may have an advantage over those disadvantaged
+[C] this phenomenon is a coincidence
+[D] alphabetically advantaged will have great achievements
+（2） The author mentions Zysman      .
+[A] because he is short-sighed
+[B] because he could escape being asked questions by the teacher
+[C] as a representative of the alphabetically disadvantaged
+[D] because he gets his awards later than the ABCs
+（3） The author thinks that the theory put forward by the alphabetically disadvantaged is     .
+[A] ridiculous                           [B] reasonable
+[C] to be proved                         [D] welcomed
+参考答案：（1）B        （2）C             （3）C
+
+四、文章长难句分析与佳句赏析
+长难句分析：
+① This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet. 
+该句子的主干是this refers to discrimination。主语this和谓语refers to之间插入了介词短语for those作状语，those后跟着形容词短语unaware of…做定语，直译为：“对于那些（还没有意识到存在这种不公平待遇的）人来说”；宾语discrimination后跟介词短语against those作定语，those后又有whose引导的定语从句，直译为：“[对那些（姓氏字母在字母表中排得靠后）的人]的歧视”。
+② Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush's predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half.
+该句子的主干是由and连接的两个分句，即American president and vice-president have surnames, and 26 of… had surnames。第一个分句的宾语surnames后是分词结构starting with作定语，直译为“美国的总统和副总统有（分别以B和C字母开头的）姓氏”；第二个分句宾语后紧跟的介词结构in the first half of the alphabet作定语，直译为“乔治?布什的祖先中，26位有（排在字母表前半部分的）姓氏”，另外一个介词结构against…的完整形式是against just 16 of George Bush's predecessors had surnames in the second half，直译为“相对只有16位有（排在字母表后半部分的）姓氏”。
+③ Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them. （长难句）
+该句子的主干是and连接的两个分句：all tend to be drawn up, and their recipients lose interest。冒号前的三个名词短语是第一个分句主语all的同位语。As引导的时间状语从句，修饰第二个分句。
+佳句赏析：
+As are the world’s five richest men. 
+从这句话里考生可以学会as的用法。如这篇文章的第四段一样，作者列举了一系列名人的姓氏字母在排序中占据优势的现象。为了避免重复，作者不断变换表达方式，到最后用了一个as也可以达到同样的目的：starting with B and C…in the first half of the alphabet…are alphabetically advantaged…close to the top of the alphabet…as…。但注意，这时为了保持句子平衡，要采用倒装的句式。
+
+五、核心词汇与超纲词汇
+（1）condemn（v.）谴责，反对；宣判；宣告…不适用
+（2）insidious（a.）阴险的，不知不觉中进行的
+（3）thrive（v.）茁壮成长；繁荣，旺盛，兴旺
+（4）alphabetism（n.）alphabet 字母表，–ism 是后缀，表示一种独特的教条、系统或理论。它常常和名词合成为“……主义、学、术、论、法”。这里是作者临时臆造出来的新词汇，指社会上存在的按照字母排序的理论。
+（5）thumb through翻阅一遍
+（6）suspiciously（ad.）猜疑地，怀疑地
+（7）respectively（ad.）各自地，分别地
+（8）predecessors（n.）前辈，前任；(被取代的)原有事物 构词法：pre- 前缀“前面”，cess词根“走”，-or “者，人”，“走在我们前面的人”是“前辈”。
+   （9）coincidence（n.）巧合（的事）
+   （10）rot （n.）腐烂；胡说，荒唐的想法 the rot sets in 习惯用语，表示“情况开始出毛病；事情开始走下坡”
+（11）humiliation（n.）羞辱，蒙耻，使人丢脸的条件或环境
+（12）literally（ad.）照字面地；完全地，在确切或严格的意义上；差不多，简直
+（14）shortlists（n.）供最后挑选(或考虑)用的候选人的名单，比如在颁发奖项或填补空缺职位时。
+（15）ballot（n.）选票，投票权
+（16）attendee（n.）参加者，出席者 –ee 后缀，表示“……者”，如：devotee 献身者retiree退休者refugee 逃难者
+（17）plough through费劲地阅读，吃力地钻研；艰难地通过
+
+六、全文翻译
+在过去的一个世纪里，各种各样的不平等待遇和歧视都已经受到人们的谴责或被视为违法。但是，有一种隐蔽的不公平待遇却继续盛行：字母排序。对于那些还没有意识到存在这种不公平待遇的人，可以这么向他们解释：它指的是歧视那些姓氏字母在字母表中排得靠后的人。（长难句①）
+人们早就知道，当乘客翻电话薄叫出租车时，一家名为“AAAA汽车”的出租车公司远比另一家名为“Zodiac汽车”的公司占有优势。而少为人知的是，名为Adam或 Abbott的人在生活中要比名为Zoe或Zysman的人有优势。英语名字在字母表的前、后部分是很均匀地分布的，但令人不敢相信的是大部分的杰出人物的姓氏字母却都排在了A到K之间。
+因此，美国的总统和副总统的姓氏字母分别以B和C开头，而乔治?布什的祖先中，有26位姓氏字母排在了字母表的前半部分，只有16位排在了后半部分。（长难句②）更令人吃惊的是，七个富裕国的政府首脑中，六位具有字母排序的优势，他们分别是：贝波鲁斯科尼、布莱尔、布什、希拉克、科利汀和小泉。世界三大中央银行行长的姓氏也排在了字母表前面，即使其中一位用的是日本名字，他们分别是：格林斯潘、迪森伯格和河野。世界上最富裕的五个人也是这样，（佳句）他们的名字分别是：盖茨、巴菲特、艾伦、埃利森和阿尔布雷克特。
+难道这仅仅只是巧合吗？有一种理论是那些在字母排序中处于劣势的人闲暇之余臆造出来的。它认为这种不平等待遇早就存在了。在幼儿园的第一学期里，老师把学生按姓氏的字母顺序从前往后排座位，以便更容易记住他们的名字。因此一些近视的、姓氏字母排后的学生就固定在后面几排了。而一些粗心的老师很少向这些孩子提问，提问其实有利于他们智力的提高。这时，这些字母排序中处于劣势的孩子还认为自己有幸逃脱了提问。然而，结果却造成了能力的差异，因为这些孩子受到的关注要少，在公开表达自己时更缺乏信心。
+还有这种让人感到羞辱的情况。在大学毕业典礼上，姓氏字母排前的学生先得到奖励，而轮到那些姓氏字母靠后的人时，大多数参加者差不多都在打鼾了。在求职面试的最后名单里，在投票选举单上，在与会发言人和参加者名单中……往往都是按照字母先后顺序的排列，等到拿着这些名单的人费劲地从头看到尾时，他们早已经失去了兴趣。（长难句③）
+
+第三篇
+
+一、文章结构总体分析
+结构分析：
+本文从斯珀若的例子展开讨论，论述了美国当前经济形势下，消费者没有表现出恐慌。论证过程中用了举例、列举、引用等论证手段。
+第一段：以美甲师斯珀若的情况为典型事例，说明美国的经济情况影响到了很多人的生活。
+第二段：使用列举的方法说明美国经济在降温，但段落后半部分笔锋一转，点明人们并不恐慌。
+第三段：使用房地产业为典型事例，说明段首的主题句：人们自己财富的感觉依然良好。
+第四段：在此使用列举的方法说明段首的主题句：人们从这次经济滑坡中看到了自己可以得到的好处。
+
+二、试题具体解析
+31. By “Ellen Spero isn't biting her     31. 作者说“Ellen Spero isn’t biting her
+nails just yet” (Line 1, Paragraph     nails just yet”意思是__  _ 。
+1), the author means __  _.                                             
+[A] Spero can hardly maintain her business.  [A]斯珀若无法维持自己的生意。
+[B] Spero is too much engaged in her work.   [B]斯珀若过分投入自己的工作。
+[C] Spero has grown out of her bad habit.    [C]斯珀若改掉了坏习惯。
+[D] Spero is not in a desperate situation.   [D]斯珀若还没处于绝望的状态。
+[答案] D
+[解析] 本题考核的知识点是：词义句意题。
+此句主要考对“bite one’s nails”的理解，从字面上看，意思是“咬指甲”，似乎应该选C。但是，这类型题目往往不是考查本意，因此必须放在原文中推敲。第一段第二句接着说“这个47岁的美甲师修剪、锉磨、上油的指甲却没有自己希望的那样多了”，后来又说她的生意不如从前。因此，从第二句开始讲的是经济影响到了她的生意状况。在第一句中,作者借用了 not bite one’s nails 这个形象的比喻来说明斯珀若并非 “处于非常糟糕的情况”。第一句和第二句之间的连接是but，表转折，由此可知第一句的意思是在铺垫和让步，即“虽然她的状况还不是特别差”。D选项符合此意。
+32. How do the public feel about the current     32.公众对目前的经济形势感觉如何？
+economic situation? 
+[A] Optimistic.                                   [A]乐观
+[B] Confused.                                     [B]迷惑 
+[C] Carefree.                                     [C]无忧无虑的 
+[D] Panicked.                                     [D]恐慌 
+[答案] A
+[解析] 本题考核的知识点是：事实细节题。
+文章第二段先列举了一些经济形势不好的例子，然后在后半段开始谈及公众对此的看法：“不过，目前还不必拉响警报。消费者好像仅仅是中度关注，没有恐慌，很多人说，即使当他们稍微勒紧裤腰带的时候，他们对经济的远景还是乐观的。”因此A选项符合文意。
+也可以使用排除法：B和D可以首先排除，因为被作者在文中直接否定了。从mildly concerned 和do some modest belt-tightening等处，可以看出公众对于目前的状况态度虽然算不上极度恐慌，但也不是无忧无虑的，因此，C选项错误。但是，考生需要意识到，A选项并不是 mildly concerned 最直接的近义词，而仅比C选项更加接近而已。
+33. When mentioning “the $4 million to $10 33. 作者提到“the $4 million to $10 million
+ million range”(Lines 3-4, Paragraph 3),   range”（第三段第三至第四行）的时候，
+the author is talking about？             在谈论什么？
+[A] gold market.                            [A]黄金市场
+[B] real estate.                            [B]房地产业
+[C] stock exchange.                         [C]股票交易
+[D] venture investment.                     [D]风险投资
+[答案] B
+[解析] 本题考核的知识点是：词义句意题。
+第三段第二句提到“大部分地区房价保持稳定”，接着文章开始分别介绍曼哈顿和旧金山的情况，可见这两个都是例证，主要谈论的是房地产业。那么，其中引用的话语也应该是围绕这个主题展开的。如果有考生不知道房地产的英语单词，继续往下看的时候，发现John Tealdi的同位语是a Bay Area real-estate broker（一名海湾地区房地产经纪人），因而正确答案为B。
+A选项是借用了文中的gold rush而捏造的干扰项。C选项看似正确，但注意它和房地产业间的关系是：由于房价稳定，股票才会攀升，股票持有者才会获利，因此文中谈论股市还是为了说明房地产业。D选项文中没有提及。
+34. Why can many people see “silver linings”  34.为什么在经济滑坡中人们看到了
+to the economic slowdown?                      “银色的衬里”？
+[A] They would benefit in certain ways.         [A]他们可能在某些方面获益。 
+[B] The stock market shows signs of recovery.   [B]股票市场出现复苏的迹象。 
+[C] Such a slowdown usually precedes a boom.    [C]紧接着这种滑坡的往往是繁荣。 
+[D] The purchasing power would be enhanced.     [D]购买力得以增强。 
+[答案] A
+[解析] 本题考核的知识点是：推理引申题。
+文章最后一段首句出现了题干中的这句话，紧接着作者使用罗列的手法举例证明：买房人会因低利率而高兴；雇主不介意人才市场少点泡沫；投资者把股市波动看作繁荣必不可少的一部分；就餐者也可以去以前上不起的饭馆。从这些事实中我们可以引申出，“银色的衬里”的意思是他们得到了好处，因此，正确答案为A选项。其他三个选项中均没有提及。
+知识点补充：silver linings来自一句谚语Every cloud has a silver lining，意思是“黑暗中总有一线光明”或“情况总会好转”。文中借用silver linings来表示“人们依然看到希望”。
+35. To which of the following is the author  35.对于下列说法，作者可能同意哪个？
+     likely to agree?
+[A] A new boom, on the horizon.              [A]新的繁荣即将出现。
+[B] Tighten the belt, the single remedy.       [B]勒紧裤腰带，这是唯一的解决方法。
+[C] Caution all right, panic not.            [C]有必要谨慎，没必要恐慌。
+[D] The more ventures, the more chances.     [D]投资越多，机会越多。
+[答案] C
+[解析] 本题考核的知识点是：作者观点题。
+这篇文章主要涉及美国经济，开篇以一个事例引出讨论题目：美国经济滑坡。紧接着第二段谈到，格林斯潘承认美国经济开始降温之前，人们就感觉到了经济在滑坡。在该段的后半部分，作者谈到消费者仅是中度关注而没有恐慌。第三段延续第二段后半部分，讨论消费者没有处于绝望境地。最后一段说他们在经济滑坡中还得到很多实惠。综合全文，C选项最能反应出作者的态度。A和B选项的态度分别过于乐观和悲观。D选项不符文意。
+
+三：试题命制分析
+考点设计点评：
+试题命制涉及了主题、论证方法和词义句意。对文章主题思想进行考察是任何阅读理解文章共同的特点，考题中考查目的第2、5题就是这样的。考题中的第一题涉及了论证手段，但考察角度是词义。此外，还考察了一些语言点（如，考题第1题和第3题），其中，第3题是把语言点和段落意思理解巧妙融合在一起的一道题。从论证方法讲，本文比较明显的特点就是使用了例证法，其中第一段和第三段是典型事例，除考题的第1题之外，又补充了其他考点第1题。文章第二段和第四段有所不同，是对例子的罗列，这种论证方法更适合出事实细节题或推理引申题（如，其他考点第2题和第3题）。
+其他考点：
+（1）In Paragraph 1，the author mentioned Ellen Spero      .
+[A] because she is an economic indicator
+[B] because she is also downscaling
+[C] because she is worried about being abandoned by her clients
+[D] because her life is influenced by the overall economic situation
+(2) From Paragraph 2, we can conclude that       .
+[A] most working folks can foresee the economic situation of the country
+[B] car dealers see a sign of clients being conservative
+[C] retailers suffer a great loss in the economic cooling
+[D] customers tight their belts at a critical moment
+(3) Which of the following can be inferred from the last paragraph?
+[A] People are worried because some might be unemployed.
+[B] Many consumers are no longer concerned about the ups and downs in the stock market.
+[C] Diners can get hot food in new restaurants.
+[D] Most people like the new economic policy.
+参考答案:  (1) D      (2) C     (3) D 
+
+四、 文章长难句分析与佳句赏析
+长难句分析:
+① Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy’s long-term prospects even as they do some modest belt-tightening.
+该句是一个并列句,and 后面的分句比较复杂,主干为 many say… ,后接的宾语从句中主干为 they remain optimistic about … ,even as 引导让步状语从句。 
+ ② Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom.
+该句的主干是 Many consumers seem to have been influenced by stock-market swings, 之后 which 引导一个定语从句,修饰stock-market swings,其中 “view…as …” 这个短语的意思是是“把……当作/看作……”。
+佳句赏析：
+① Already, experts say, holiday sales are off 7 percent from last year's pace. 
+该句中有一个很简略的表达off，意思为减少，这个表达完全可用于写作。例如：The number of applicants is 6 thousand，off from 7 thousand of last year.(申请者的数量从去年的7万人降到了今年的6万。这里用pace而不是speed表示“速度”也更加形象化。
+② Home prices are holding steady in most regions.
+该句的意思是：大部分地区房价保持稳定。其中，表示“保持”一般我们用remain，但是没有hold形象。
+③ Diners might see an upside, too.
+Upside本意为上下倒置，这里用来形容巨大的变化，导致现在情况与以前截然不同。如：We see an upside in his behavior（我们看到他现在的行为截然不同与以前/他与以前判若两人）。
+
+五、核心词汇与超纲词汇
+（1）dealership （n.）代理权，经销权；dealer 代理商
+（2）downscale （v.）缩减…的规模
+（3）frenzy （n.）狂暴，狂怒
+（4）indicator （n.）指示器；indicate 指出，显示，预示
+（5）lining（n.）衬里
+（6）manicurist （n.）指甲修饰师
+（7）panick 或panic （n.）惊慌，恐慌
+（8）predominantly （ad.）主要地，突出地；卓越地；predominate 掌握，控制，支配；predominant 主要的，占优势的
+（9）retailer （n.）零售商人；retail 零售；wholesale 批发；wholesaler 批发商
+（10）slowdown （n.）减速
+（11）temper （n. v.）回火；调节
+
+六、全文翻译
+   当经济发展减缓时，艾伦?斯珀若还没有处于绝望的状态。然而，“这个47岁的美甲师修剪、锉磨、上油的指甲却没有自己希望的那样多了。她大多数的客户每周花十二至五十美元，然而上个月两个老顾客突然不来了。斯珀若将之归结于疲软的经济。“我是一个准确的经济晴雨表”，她说，“我提供的服务在人们考虑省钱时就不需要了。” 因此，斯珀若也在节约开支。她改去克利兰德郊区她家附近的迪拉德百货商场购物，而不再去奈曼?马克尔斯了。“我不知道其他的客户是否也会弃我而去。”
+甚至在艾伦?格林斯潘承认美国过热的经济开始降温之前，众多的工人自己已经看到了经济减速的迹象。随着消费者削减开支，从汽车销售商到Gap名牌专卖店，销售量开始几个月来连续下降。对于零售商来说，在去年感恩节和圣诞节期间的收入为全年收入的百分之二十四，对他们来讲，顾客的这种谨慎态度可是发生在节骨眼上。据专家称，今年的假日消费速度和去年相比已经减缓了百分之七。（佳句①）不过，目前还不必拉响警报。消费者好像仅仅是中度关注，没有恐慌，很多人说，即使当他们稍微勒紧裤腰带的时候，他们对经济的远景还是乐观的。（长难句①）
+消费者说，尽管报纸的头条新闻很吓人，他们之所以没有绝望，其原因在于他们对自己的财产状况仍然感觉良好。大部分地区房价保持稳定。（佳句②）在曼哈顿，“又出现了新一轮的淘金热，总值达到四百万至一千万美元。这笔资金主要是由华尔街股票红利注入。” 股票经纪人芭芭拉?可考恩说。在旧金山，高价抢购现象虽然已经平息，房价却依旧看涨。“你现在只能在两三套房子间选择了，而不是二十或三十套。”海湾地区房地产经纪人约翰?梯尔迪说道。而且大多数人仍然有能力找到并且保持一份工作，他们对此颇为满足。
+许多人从经济减缓中获得了好处。潜在的买房人会因低利率而高兴。雇主不介意人才市场有点泡沫。尽管很多消费者似乎一直受到股票市场波动的影响，投资者却把这种波动看作持续繁荣必不可少的一个因素。（长难句②）就餐者从中也得到很大的益处。（佳句③）过去，在曼哈顿新开的火爆的阿兰?杜卡斯饭店吃上一桌是不可能的，而现在情形大不相同。就凭这个，也值得格林斯潘和商业举杯。
+
+第四篇
+
+一、文章结构总体分析
+这是一篇关于美国教育的文章，主要通过引证等方法论证了才智在美国教育中被忽视，并讨论了这种忽视的危害性及根源。
+第一段：以美国人不注重才智为引子，段末点明文章的中心：这种现象在美国教育中非常普遍。
+第二段：引用拉维奇的话，说明美国学校不注重才智，而注重实用。
+第三段：分析了这种趋势的危害性，并引用绍利斯的话总结：“美国会成为一个二流国家，民主程度要较以前逊色得多。”
+第四段：引用历史学家霍夫斯坦特的话，追寻了该趋势的历史原因。
+第五段：用爱默生、马克?吐温两个典型事例说明该趋势的历史原因。
+第六段：比较了才智和聪明的不同之处。
+第七段：对全文进行了总结，与第一段相呼应，批评了学校对才智的忽视。
+
+二、试题具体解析
+ 
+36. What do American parents expect their children to acquire in school? 
+[A] The habit of thinking independently. 
+[B] Profound knowledge of the world. 
+[C] Practical abilities for future career. 
+[D] The confidence in intellectual 
+36. 美国父母期望孩子在学校学到什么？
+
+[A] 独立思考的习惯
+[B] 有关世界的丰富知识 
+[C] 为未来职业做准备的实用技能 
+
+[D] 追求才智的信心
+ 
+pursuits. 
+[答案] C
+[解析] 本题考核的知识点是：事实细节题。
+根据第一段第三句话“即使我们的学校也只是我们送孩子去接受实用教育（a practical education）——而不是为了知识而求知（pursue knowledge for the sake of knowledge）的地方”，可以得出正确答案为C。文章多次提到学校忽视了才智教育的观点，仅从pervasive anti-intellectualism就可判断出D选项错误。A和B选项和实用教育是相违背的，而且文中也没有提及，因此不正确。
+ 
+37. We can learn from the text that Americans have a history of      .
+[A] undervaluing intellect. 
+[B] favoring intellectualism. 
+[C] supporting school reform. 
+[D] suppressing native intelligence.
+37. 从文章中我们可以知道美国具有    
+的历史
+
+[A] 轻视才智
+[B] 喜欢才智主义 
+[C] 支持学校改革 
+[D] 压抑先天智力
+ 
+[答案] A
+[解析] 本题考核的知识点是：事实细节题。
+根据标志词“history”，可以定位在第四段。文章大部分都在讨论学校教育，只有第四段谈到了美国的历史。霍夫斯坦特教授在他的一本书中探讨了美国政治、宗教和教育领域中反才智主义的根源。他指出“从美国历史一开始，对民主和平民主义的追求驱使我们拒绝任何带有精英优越论味道的东西。实用、常识、先天的智力被认为是比书本中学到的东西更加高尚的素质”。可见，“精英优越论味道的东西”在这里指的就是才智主义。因此，美国有史以来就是反对才智主义的，正确答案为最接近的A选项。B、D选项和事实相反。C和本文无关，可首先排除。
+ 
+38. The views of Ravitch and Emerson on schooling are   .
+[A] identical. 
+[B] similar.
+[C] complementary.
+[D] opposite.
+38. 拉维奇和爱默生对于学校教育的观点是     。
+[A] 完全相同
+[B] 相似的 
+[C] 互补的
+[D] 相反的
+ 
+[答案] D
+[解析] 本题考核的知识点是：推理引申题。
+考生关键要把握这两个人各自的观点。第二段出现的拉维奇指出：学校一直处于一个重实际而轻才智的社会，但学校原本可以成为一种抗衡力。他在书中追溯学校反才智主义的根由并做出结论：美国学校没有逆转美国人对才智追求的厌恶。可见，拉维奇对学校教育的观点是：学校本来是追求才智的，但是无法扭转社会重实际而轻才智的趋势。第五段出现的爱默生则认为，学校教育和严格的课本学习不自然地禁锢了孩子。在学校里学上五到十年，结果满肚子单词（a bellyful of words），什么事情都不知道（do not know a thing）。由此可知两人的观点立场完全不同，应选D选项。
+ 
+39. Emerson, according to the text, is probably     
+[A] a pioneer of education reform.
+[B] an opponent of intellectualism.
+[C] a scholar in favor of intellect.
+[D] an advocate of regular schooling.
+39. 根据课文，爱默生可能是     
+
+[A] 教育改革的先驱
+[B] 才智主义的反对者
+[C] 支持才智的学者
+[D] 正常学校教育的主张者
+ 
+[答案] B
+[解析] 本题考核的知识点是：推理引申题。
+和上题一样，从第五段可推知，爱默生对学校教育持否定态度，而这种学校教育就是才智教育，与实用、常识和先天聪明（第四段最后一句）不同。因此正确答案应该是B选项。
+答题技巧：首先本文是关于才智主义的，里面列举的人物肯定和才智有关，可以把答案确定在B和C两个选项内。接下来，考生需要推断的就是爱默生对才智主义是支持还是反对。
+ 
+40. What does the author think of intellect?      40. 作者如何看待才智？                                           
+[A] It is second to intelligence.                  [A] 与聪明想比是次要的。
+[B] It evolves from common sense.                  [B] 从常识进化而来。
+[C] It is to be pursued.                           [C] 应该被追求。
+[D] It underlies power.                            [D] 是权力的基础
+[答案] C
+[解析] 本题考核的知识点是：作者观点题。
+从文中第一段开始，作者提出问题：才智在美国教育中被忽视，进而讨论这种趋势的影响和原因，其中引用了正反很多人的观点来表明自己的态度。如厄尔?绍利斯、霍夫斯坦特和拉维奇等。文章最后指出，学校依然不信任才智，因为学校掌握在敌视才智的人手中，他们急于把自己和那些最没有才智的学生联系在一起。综合全文可知，作者从头至尾一直在批判学校和社会忽视或轻视才智的做法，因此C选项是他的观点。
+
+三、试题命制分析
+考点设计点评：
+这篇文章总结起来涉及了两大考点：事实细节（原考题第1、2、3、4题）和作者观点态度（原考题第5题）。对于事实细节，试题命制者采用了灵活的方式，既有单纯的事实细节题，也有推理引申题，内容上也涵盖了 
+文章的大部分主要内容。对于才智主义这个主题，里面列举了很多人的观点，这些人的观点以及对他们观点进行比较是一个很好的考点，如原考题中的第3、4题，而且这个角度也是首次出现，非常新颖。另外，作者虽然没有明确说自己如何看待这一问题，但是他肯定有自己的观点，否则不会费此笔墨，这也是一个绝好的考点，如原考题第5题。除此之外，文章有一个比较明显的特点，较多使用引文，而且多表达说话人的观点，这应该是一个较好的考点（补充考点第2题），也可以从例证角度设计试题（补充考点第1题）。此外还可以命制文章主旨大意题（补充考点第3题）。
+补充考点：
+（1）By citing Emerson and Mark Twain, the author intends to show that        .
+[A] practicality, common sense, and native intelligence are more important than schooling
+[B] Emerson and Mark Twain are anti-intellectualists
+[C] anti-intellectualism is deeply rooted in the American society
+[D] intellect education destroys children’s nature
+（2）According to Diane Ravitch, schools      .
+[A] is a small society which values common sense
+[B] should reduce the effect of society on children
+[C] are places where people show off their power and privilege
+[D] should be blamed for the pervasive anti-intellectualism
+（3）The most suitable title for the passage might be       .
+[A] School: A Battlefield of Intellectualism vs. Anti-Intellectualism
+[B] The Fight Against Anti-Intellectualism
+[C] Intellectualism: A Long Ignored Character
+[D] History of Anti-Intellectualism
+参考答案：（1）C       （2）B         （3）A
+
+四、文章长难句分析与佳句赏析
+长难句分析：
+① Ravitch’s latest book. Left Back: A Century of Failed School Reforms, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits. 
+    句子的主干是Ravitch’s latest book…traces the roots…。Left Back: A Century of Failed School Reforms是书的同位语，concluding引导的是状语，其中anything but的意思是“恰恰不是，根本不”。如：I was anything but happy about going.（我根本不喜欢去）。
+② “Intellect is resented as a form of power or privilege,” writes historian and professor Richard Hofstadter in Anti-intellectualism in American Life, a Pulitzer-Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. 
+句子主干为一个直接引语， “Intellect is resented as a form of power or privilege,” writes historian and professor Richard Hofstadter。后面连接的in Anti-intellectualism in American Life 作状语，斜体部分为书名，和Pulitzer-Prize winning book为同位语，on表示“以……为主题”。
+佳句赏析：
+① From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. 
+    Urge一般用作动词表“督促，驱使”，这里用作名词，意思是“强烈要求”，加上drive（驱使）和smell of（有…的味道），三个词都是熟悉的词汇，但用在这里都非常形象化。平时在一些简单的句子中使用这些表达，例如：the urges for a stable society (对社会稳定的强烈要求)；The desire for success has driven him to work day and night （成功的愿望驱使他夜以继日地工作）；His words smell of challenge（他的话有一些挑战的味道），等等。
+② Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes, and imagines. 
+While前后连接两个句子，进行比较或作轻微的转折，语义上相当于yet，但用法更为讲究，前后两句往往意思相反，结构相似。
+例句补充：The young sees every rising sun as a day added to his life, while the old regards it as 24 hours eliminated from his life （年轻人把朝阳看作生命中的又一天，而老年人则把它看作生命中又流逝了24小时）。
+
+五、核心词汇与超纲词汇
+（1）counterbalance （v.）使平均，使平衡；（n.）平衡力，平衡量；势均力敌
+（2）entrepreneur （n.）企业家
+（3）exemplify （v.）举例说明
+（4）identify （n.）识别，鉴别；把…和…看作一样
+（5）pervasive （a.）普遍的，渗透的
+（6）privilege （n.）特权
+（7）proclaim （v.）宣布，声明；显示，显露
+（8）resent （v.）愤恨，怨恨
+（9）symptom （n.）症状，征兆
+（10）vulnerable （a.）易受攻击的，易受伤害的；脆弱的，易损的。“易受…的伤害”常用“be vulnerable to …”。
+
+六、全文翻译
+今天的美国人对才智并不十分重视。我们心目中的英雄不是学者，而是运动员、演艺界人士和企业家。即使我们的学校也只是我们送孩子去接受实用教育，而不是为了知识而求知的地方。学校中也不难发现反才智主义的普遍存在。
+“学校一直处于一个重实际而轻才智的社会中。”教育作家戴安?拉维奇说。“学校原本可以成为一种抗衡力。拉维奇的新书《落后：一个世纪失败的学校改革》追溯了学校里反才智主义的根由，并得出结论：美国学校绝没有逆转美国人对才智追求的厌恶。（长难句①）
+	然而，学校原本可以并且也应该做到这一点的。鼓励孩子们排斥精神生活，会使他们很容易被利用和控制。如果缺乏批判地思考、捍卫自己的思想和理解他人观点的能力，他们就不能够完全参与到我们的民主当中去。作家厄尔?绍利斯说：“沿着这种路线走下去，我们会变成一个二流国家。我们社会的民族程度将会降低。
+	“才智被看作一种权利和特权而遭到厌弃，”历史学家理查德?霍夫斯坦特教授在《美国生活中的反才智主义》中这样写道。这本曾获普利策奖的书探讨了美国政治、宗教和教育领域中反才智主义的根源。（长难句②）霍夫斯坦特说，在我们历史的一开始，我们对于民主和平民主义的渴望驱使我们拒绝任何带有精英优越论味道的东西。（佳句①）实用、常识、先天的智力被认为是比书本中学到的东西更加高尚的素质。
+拉尔夫?沃尔朵?爱默生和其他一些先验主义哲学家认为学校教育和严格的课本学习不自然地禁锢了孩子。“我们被关在中小学和大学里背诵了十到十五年。出来之后装满了一肚子的单词，却什么也不懂。”马克?吐温写的《哈克贝利芬历险记》即展现了美国的反才智主义。这本书的主角拒绝变成文明人，即：不上学，不学习读书写字。这样他就能保存自己善良的本性。
+按照霍夫斯坦特的观点，才智同我们所赞赏的那种天生的智力有所不同。才智指的是人精神世界中批判、创造和思考的一面。智力寻求的是理解、运用、整合和调节，而才智是审视、思考、怀疑、形成理论、批判和想象。（佳句②）
+学校仍然是一个才智受到怀疑的地方。霍夫斯坦特说我们国家的教育体制掌握在这样一群人的手中，“他们沾沾自喜地、霸气十足地公然宣称他们对才智的敌意，也迫不急待地表示出对那些在才智上没有前途的孩子们的认同。”
+
+Part B
+翻译试题解析
+
+一、试题总体分析
+文章从语言与思维的关系入手，谈论了语言学中萨皮尔—沃尔夫假说的形成。博厄斯和萨皮尔在二十世纪后半叶首先开始研究其他语言，尤其是美洲印第安语言。其学生沃尔夫继续研究，并形成了语言决定论。后人将他俩人的观点合称为萨皮尔—沃尔夫假说。
+首先，2004年度的翻译部分难度适中，主要考查了多重复合句的翻译，其中涉及定语从句、宾语从句和同位语从句，这就要求考生必须熟练掌握英语句子结构，能够逐层分析结构复杂的句子，理顺各部分在句子中所作的成份。其次，2004年度考题与往年不同的是，还考查了一些固定短语，这也要求考生平时加强基本功的训练。
+
+二、试题具体解析
+(41) The Greeks assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how diverse languages could be.
+[解析]  本题考核的知识点是：多重复合句的译法
+该句子是复杂的复合句，其结构可以分三层。第一层是含非限定性定语从句的复合句，主干是The Greeks assumed sth., which took root…。其中Which引导定语从句，代表前面的观点sth.，因此直接译成“这种观点”；第二层是含宾语从句的主句+含时间状语从句的非限定性定语从句，主句中that引导宾语从句做宾语，定语从句中long before引导时间状语从句做状语。第三层是含宾语从句的时间状语从句，其中how diverse languages could be做realized的宾语。
+词汇：assume 意为“假定，设想，猜测，认为”，在句子中译为“认为”更符合汉语习惯；some 译为“某种”，表示不确定；take root 的意思是“扎根，生根”；long before，意为“早在……之前就……”；diverse的意思是“不同的，变化多的”，在句子中通过词类转换，译成“语言的千差万别”。
+译文：希腊人认为语言的结构和思维过程有某种联系，这种观点早在人们意识到语言的千差万别之前就已经在欧洲扎下了根。
+(42) We are obliged to them because some of these languages have since vanished, as the peoples who spoke them died out or became assimilated and lost their native languages.
+[解析] 本题考核的知识点是：短语be obliged to、多重复合句的译法
+该句也是复杂的复合句，其结构分三层。第一层是含原因状语从句的复合句，主干是We are obliged to them because …，because引导原因状语从句。第二层是because原因状语从句中套as原因状语从句，从句的主干是these languages have since vanished, as…。第三层是as原因状语从句中套定语从句，主干是peoples (who spoke them )died out or became assimilated and lost…。其中定语从句who spoke them限定先行词people，做主语；谓语是or连接的两个并列部分，其中第二部分又是and连接的两个动作。全句翻译的时候非常重要的一点就是排序，原因状语放在主句前后均可，状语从句内部最好先翻译as引导的从句。同时也要注意一些细节，如since，or。
+词汇：be obliged to 通常的意思是“不得不”，这里是一个不太常见的意思“感谢”，可以从上下文中推出；since 意为“从此之后”；vanish 的意思是“消失”；assimilate的意思是“同化，吸收”。
+译文：我们得感谢他们，因为在此之后，随着说这些语言的人消亡或者被同化而失去母语，这些语言中有一些就此消失了。
+(43) The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some scholars even accused Boas and Sapir of fabricating their data.
+[解析] 本题考核的知识点是：so…that结构、短语accuse sb. of sth.、过去分词做定语的译法
+句子的主干是languages were often so …that …，其中that引导结构状语从句。有两个过去分词作定语：newly described和well studied，因为较短，可直接译为定语。主句谓语部分were often so strikingly different from有两种处理方法：一种是保留原文词性，译为“如此显著地不同于”；第二种是改变词性，将different变为名词，strikingly变为形容词，全句结构为“……和……的区别如此显著，以至于……”。后者更加符合汉语的习惯。
+词汇：strikingly意为“显著地”；accuse意为“指责；指控”，本句选择前一个词义“指责”；fabricate的意思是“捏造”，考生即使不知道这个词义，也可以根据上下文推出。
+译文：新近被描绘的语言与过去已经得到充分研究的欧洲及东南亚语言之间的区别如此显著，以至于一些学者甚至指责博厄斯和萨皮尔捏造数据。
+(44) Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society.
+[解析] 本题考核的知识点是：非谓语结构作状语和同位语从句的译法
+句子的主干是Whorf developed the idea that …，that引导同位语从句。主句中又有Being interested in the relationship of language and thought这个现在分词结构作原因状语，翻译时可以把句子主语提前，译为主谓句，但需要加一个连词，表明和主句的因果关系，这里可以加“因为……所以”，“以至”或“结果”。that引导的同位语从句的处理方法可以是“这样的”，或用“那就是”、“即”等表达后，重新组织句子。
+词汇：developed 与idea搭配，不宜译作“发展”，可译为“得出”；determine意为“决定”；habitual的意思是“习惯的”。
+译文：沃尔夫对语言和思维的关系很感兴趣，结果他得出这样的观点：语言的结构决定一个社会习惯思维的结构。
+(45) Whorf came to believe in a sort of linguistic determinism which, in its strongest form, states that language imprisons the mind, and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society.
+[解析] 本题考核的知识点是：定语从句、宾语从句的译法
+该句子分两个层次。第一层是含定语从句的主句，其主干是Whorf came to believe in a sort of linguistic determinism which …，which引导定语从句修饰linguistic determinism。第二层是含有两个并列的宾语从句的定语从句，主干是which states that …and that…，两个that引导宾语从句。
+词汇：come to 表达一种转变，可译为“逐渐、进而”；determinism意为“决定论”或“决定主义”；in its strongest form 按汉语习惯可译作“其极端的形式”；imprison的本义是“监禁”，这里可以引申为“限制、禁锢”等；far-reaching与consequences连用，可译为“深远的影响”。
+译文：沃尔夫逐渐相信某种语言决定论，该理论最极端的形式声称，语言限制思想，并且，语言的语法结构可对一个社会的文化产生深远的影响。
+
+三、参考译文
+几百年来，哲学家一直对语言与思维的关系很感兴趣。（41）希腊人认为语言的结构和思维过程有某种联系，这种观点早在人们意识到语言的千差万别之前就已经在欧洲扎下了根。
+直到最近，语言学家才开始研究与自己母语不同的语言。两位人类学语言学家，佛瑞兹?博厄斯和爱德华?萨皮尔是两位先驱，他们在20世纪前半叶描述了南美洲和北美洲很多土著语言。（42）我们得感谢他们，因为在此之后，随着说这些语言的人消亡或者被同化而失去母语，这些语言中有一些就此消失了。然而，他们同时代那些对“异国”语言的奇怪数据无甚兴趣的语言学家，却并不总是心怀感激。（43）新近被描绘的语言与过去已经得到充分研究的欧洲及东南亚语言之间的区别如此显著，以至于一些学者甚至指责博厄斯和萨皮尔捏造数据。印第安语言的确非常不同，以至于二战期间，美国军队发送秘密情报的时候，使用纳瓦霍语作为密码。
+萨皮尔的学生本杰明?李?沃尔夫继续研究美洲印第安语言。（44）沃尔夫对语言和思维的关系很感兴趣，结果他得出这样的观点：语言的结构决定一个社会习惯思维的结构。他推理说，在一个特定的语言中，形成某些概念相对比较容易，但形成另一些概念就不同了，说这种语言的人沿着一个轨迹思维，而不是另外一个轨迹。（45）沃尔夫逐渐相信某种语言决定论，该理论最极端的形式声称，语言限制思想，并且，语言的语法结构可对一个社会的文化产生深远的影响。后来，这种观点被称为萨皮尔—沃尔夫假说，但是这个说法并不恰当。尽管萨皮尔和沃尔夫都强调语言的多样性，但是萨皮尔从来没有公开支持语言决定论这种概念。
+
+第三部分 写作试题解析
+
+一、审题谋篇
+本题为图画加提纲式作文。
+从近10年的命题趋势来看，图表、图画作文已经成为主要的命题方式。从命题者的角度来说，这是为了更好地考查考生的写作能力，如：理解、推断和书面组织、表达能力。学生想要通过押题、背作文模版来应付图画作文是不可能得高分的。审题在图画型作文方面尤为重要。比如2004年的这幅图画。由于指导语中没有给出确定的题目，很多考生花了很长时间来琢磨主题，我们来看这幅图画：一个赛跑者正满头大汗地、面带微笑地跑向终点。可是当他刚刚踏上终点线时，跑道上的标志表明这个终点又是一个新的起点。那么我们从图画中可以读出什么样的启示呢？让我们的思维离开图画的直观内容，联想自己的生活时，最容易想到的是求学生活。想到这里，考生接着就应该由己推彼，联系现实生活和历史长河中更有说服力的实例。比如：我国载人飞船胜利到达太空这个终点，标志着我国航空探索事业的一个新起点。居里夫人如果满足于自己第一次取得的成就，就不会两次获得诺贝尔奖等等。
+    接下来考生应按照题目要求，规划文章的结构。文章必须包括三个方面的内容：（1）描述图画；（2）诠释图画所传达的内涵；（3）用实例来论证自己的观点。文章可以分三段完成：首段对图画进行客观描述；第二段需要阐释图画的深层含义，也就是点出主题，如：The ending point is a new starting point或Ending means beginning或Pursuit is endless等。无限循环的赛跑代表了人生。一个个终点是短期设定的目标，当它们一一被实现后，接下来的不是停止，而是更多、更高的目标；人类求知的道路是没有终点的，每一个新的突破就是一个新的起点。第三段列举实例对前面的观点加以论证。举例要有说服力，要切合主题。最好能举出两至三个例子。文章结尾处，考生最好用一两句简洁的话语重申观点，总结全文。 
+
+二、参考范文
+The Ending Point: a New Starting Line
+As is shown in the picture, a runner is dashing to the finishing line, with smile and sweat on his face. When he is congratulating himself on finishing such a task, there are two huge Chinese characters, which read “Starting Point”, in front of the line.   
+From the drawing we can easily define what the author of the drawing tries to reveal to us: a finishing line always leads to another starting point. This is true not only in a race, but also in one’s life. One track represents no more than one stage in the process of life, while the finishing line is merely the realization of one short-term goal. Therefore, this line rather marks the starting of another race than announces the finishing of one. 
+This drawing reminds me of a lot of stimulating stories. The most persuasive example is the discovery of radium by Madame Curie, which is regarded as the long-awaited final answer to the mystery of radiation. On the other hand, it triggers off the study of other radioactive elements and their applications, which starts a brand new chapter in physics. Another example that occurs to me is the safe return of Shenzhou V spaceship, which marks the triumphant end of the launch and at the same time, begins a new era for China's space exploration. A third example is relevant to ourselves. Four years' college life is now approaching an end and each of us is standing at a new starting point, either pursuing further study or starting a career. Only when we are well-prepared for this change, can we face the challenge in the future and be the winner of the next stage. 
+
+三、范文点评
+文章结构：
+从结构上看，范文按照提纲要求分为三段：第一段写得比较简洁，对图画进行了描写；第二段在段首给出主题句，也就是漫画作者的意图，进而层层深入，进行论证，从赛跑的起点和终点推到人生的起点和终点上，反映出深刻的人生哲理；第三段按照提纲要求举出一些例子，段首为该段主题句，中间给出三个例子，层次非常清晰，而且，最后一个例子联系考生实际情况，很有感召力。
+语言亮点：
+1. dash：“猛冲，急驰，飞奔”，这个词很形象，短距离赛跑专用该词，它也可以充当名词，即：make a dash for the finishing line，此外，能够表达这种快速移动的含义，替换dash的词还有：rush, hurry, dart, scamper等。
+2. congratulating himself on finishing：congratulate oneself on…“独自庆幸”。例如There are so many fishing boats that the only fish left must be congratulating itself on its narrow escape.（渔船如此之多，仅剩的一条鱼肯定在为自己幸免于难而暗自庆幸）。
+3. define：“确定”，此处还可以用infer, detect，conclude等词。
+4. reveal：“揭示”，类似含义的词还有show, expose, illustrate, demonstrate等
+5. represent：“代表，代替”,可替代的词有stand for, symbolize, manifest, portray, characterize, describe等 
+6. no more than 与接下来的merely的意思接近，都是“仅仅、只有”，此处的写作技巧为使用近义词,避免重复。可替换的表达还有：only, just, simply等。
+7. while：这个转折连词适合引导对比的句子，而且对仗工整。例如Love is not treasured buy one surrounded by love, while to an orphan it is what he desires most in the world. （一个被爱包围的人不会看重爱，然而，对于一个孤儿来说，爱是这个世界上他最渴望得到的东西）。
+8. short-term：“短期的”。反义词为long-term，也可以用in the shot run和in the long run，但后两个表达在句子中做状语。
+9. rather … than…：“是…而不是…”。这个结构可以并列任何并列词性，但需要保持一致。例如：It is rather the parents than the child who make decisions for the latter.（为孩子作决定的是父母而不是孩子自己）。
+10. mark：“标志着”，它与announce（宣布）形成对仗。可替换的词有：indicate, signal, declare, proclaim等
+11. persuasive：“富有说服力的”，替换词有convincing
+12. long-awaited：“盼望已久的”，它与well-prepared（准备很好的）构词相同，均为“副词+动词过去分词”做复合形容词。考生在写作中要掌握它们的使用。类似形容词有：above-mentioned上面提到的， long-established长久存在的，much-needed非常需要的，much-praised倍受赞扬的， not-yet-ended尚未结束的，often-repeated常被重复的，well-known著名的，wide-spread广泛流传的。 
+13. trigger off：“启动，激发, 引起”，trigger原指“扣扳机”，使用其引伸义,非常形象。
+14. start a brand new chapter：“开始崭新的一章”，相同的表达为turn a new page。
+15. occur to sb.：“某人突然想起…”
+16. era：“时代”，近义词为age或time。这个词多指具有标志性事物或人物的时期，用在文中非常恰当，如：the Kennedy era（肯尼迪时代），the era of space travel（太空旅行时代）。
+17. further：该词是个常见词，含义简单但使用灵活。它作形容词可以表示“进一步的”，如further development（进一步发展）。还可以用作动词，表示“继续”，例如：With the furthering of cultural exchanges, more and more people will accept notions and customs which used to be totally foreign to them.（随着文化交流进一步深入，越来越多的人会接受一些以前对他们来说非常陌生的观念和习俗）。
+
+四、写作误区
+篇章结构误区：
+写作中容易犯的第一个错误是跑题，有的考生把这篇文章写成了记叙文，花了大篇幅描述图画上的赛跑者，写他经过努力终于跑到了终点。也有考生好不容易憋出了一个主题，如：成功在于过程，不在结果。还有考生甚至想出的主题是：人很容易陷入一个又一个的怪圈，所以当你发现自己无法控制你的生活时，就要跳出这个怪圈。有考生这样写道“In the evening we finish all the things and go to bed, which means today’s over, but when we open our eyes, we will face a new day and a new challenge. That’s a order of nature, which we cannot avoid.”这段话根本没有涉及到该图画的内涵，而是谈了一些肤浅的生活琐事。这些都是审题不够准确，产生偏差造成的。
+其次，需要避免的误区是例证不充分或不典型。有些考生在举例说明自己的观点时，只停留在论述自己个人生活层面上。还有些考生只是反复地谈论从小学到大学再到社会参加工作的各个阶段。
+语言表达错误： 
+①用词错误：
+A boy is throughing a line which is either a starting point or a terminal point.（A boy is crossing a line which is both a starting point and a terminal line.）  
+②时态混乱：
+For example, the student is working hard in the classes and wishes to have a good mark.（For example, the student works hard in the class and wishes to have a good mark.）
+③非谓语结构错误：
+His fault is satisfied with the past success and paid little attention to the present challenge.（His fault is being satisfied with the past success and paying little attention to the present challenge.）
+④句子连接混乱：
+The reason why you have no need to look back is whether you win or lose, it has been past, they can do nothing on the problem you are facing.（The reason why you need not look back is, whether you win or lose, it is past and can do nothing to the problem you are facing.）
+⑤说话角度混乱：
+In our lives, we have several steps to experience. Although you have got to the finishing point of one step, it doesn’t mean you have accomplished the whole race.（In our lives, we have several stages to experience. Although we have got to the finishing point of one stage, it doesn’t mean we have accomplished the whole race.）
+⑥中式英语：
+But it doesn’t matter, if you again start from the beginning and do your best, you try again and again. Sooner or later, you will success.（But it doesn’t matter. If you start again from the beginning and do your best, sooner or later, you will succeed.）  
+
+ 
+
